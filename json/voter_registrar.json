@@ -1,0 +1,3626 @@
+[
+    {
+        "voter_email": "nick.petjaten@gmail.com",
+        "voter_id": "46a492e9a39cada280a396396e8dfb98",
+        "valid_token": false,
+        "voter_token": "nicholas",
+        "voter_grade": 7,
+        "casted_votes": [
+            "079c6142",
+            "076aa3c9"
+        ]
+    },
+    {
+        "voter_email": "haeselcoryl@gmail.com",
+        "voter_id": "54ae8b164e44f2f01bed417ad1f274ed",
+        "valid_token": false,
+        "voter_token": "adb3c9e87e9c750850ea9d94a7f96351",
+        "voter_grade": 12,
+        "casted_votes": [
+            "122def12",
+            "126040c4"
+        ]
+    },
+    {
+        "voter_email": "558301dae00029c9ee38e41cd6e942d8",
+        "voter_id": "fddfd69647279f94a8efb837c07fca16",
+        "valid_token": false,
+        "voter_token": "a6e7195c59cbf17c12ea512c18d7a24f",
+        "voter_grade": 12,
+        "casted_votes": [
+            "127ff92d",
+            "12dc4fe2"
+        ]
+    },
+    {
+        "voter_email": "e891ef993505b631e8d115ea49b63d09",
+        "voter_id": "bf293ee0809c39b48a1f40413dd74bbb",
+        "valid_token": false,
+        "voter_token": "66c46b5666f21cf1319d815b37edf148",
+        "voter_grade": 12,
+        "casted_votes": [
+            "12dc4fe2",
+            "127ff92d"
+        ]
+    },
+    {
+        "voter_email": "267a3c3fb4bee5f23da22df39801ff05",
+        "voter_id": "5dcc6577a84970786f88b2c6771b1219",
+        "valid_token": false,
+        "voter_token": "41ddd2c777632d21f03e210eb99fa540",
+        "voter_grade": 7,
+        "casted_votes": [
+            "0739e50d",
+            "078e6740"
+        ]
+    },
+    {
+        "voter_email": "fa852bcfc24d68567759fc66b0882691",
+        "voter_id": "330d2be7794413b359595abf0a629395",
+        "valid_token": true,
+        "voter_token": "842f38f17d4ada451aac8f8445e3798d",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "3f9efd00f0fb4f36b7d6298927c3cdb1",
+        "voter_id": "78542012c6605660f4146810a1dc79a5",
+        "valid_token": true,
+        "voter_token": "0b19585be4116402904680b23fafb563",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "eb1228ddd1c4fa6a3dc567bb54e19632",
+        "voter_id": "ddcd61b1685fc34ba8a29a1c15fb4125",
+        "valid_token": true,
+        "voter_token": "d0947e1e51a458df0a480a1079d906f1",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "1be12881de5b789cea62b3cafb0aeddd",
+        "voter_id": "60ef4895805e674bf6fcca4e39d99880",
+        "valid_token": true,
+        "voter_token": "c7807033a37e4dcbf1e42ab640673c1a",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "44a9758c6f99f6b4cbf65b5c154d47a5",
+        "voter_id": "961ee725889c4a5d8c262ebbca8675ba",
+        "valid_token": true,
+        "voter_token": "b19a48e1d14b471836a5f26e4269a46a",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b39f70c7158aad5a2e38401b96b1f2de",
+        "voter_id": "155b2131fbf54ffbce0e9f26441174d4",
+        "valid_token": true,
+        "voter_token": "6617e878255b49a9b16a8085b588b6a8",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "d140d90058b3108d1cf616bc88c5d103",
+        "voter_id": "3c984f0b47f3a9f1106fac638bbffd16",
+        "valid_token": true,
+        "voter_token": "163fed4f5a5d3d2f84b52b575b55b0c5",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "1b6beabdf7244692cf767a7625dd47a6",
+        "voter_id": "43f323a55f818a30220b35cd47bca096",
+        "valid_token": true,
+        "voter_token": "8b540851b7649f261a312f3d92e78065",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "863391e7a839fe4c77ac13cb713d4f49",
+        "voter_id": "50cc3e1fd88be523a01d3dbc49696e15",
+        "valid_token": true,
+        "voter_token": "8a04138342c93d51f76b29cafe142421",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "7793abe6c997b1e163e64692c53ddb31",
+        "voter_id": "06536aa1aab58ff7c35f3d6569959291",
+        "valid_token": true,
+        "voter_token": "f8a09ee61ccdfa8522b145b3512aa77c",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "e41670f1ac233878cf918c122748d1a0",
+        "voter_id": "43e7bb2b995d1be72b5900ea8af46b5f",
+        "valid_token": true,
+        "voter_token": "caa203b3307a14f374145d01997e84b3",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "f2c766490aa2f13799f14a22b2d6d209",
+        "voter_id": "210b765400f4724ec95a0690aef948fa",
+        "valid_token": true,
+        "voter_token": "6622bccfe189398e0df618bff040688c",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "7ed78618ff2a97c11ad5673415bf2109",
+        "voter_id": "807ecff919cd02d360d4f5133d87b6d7",
+        "valid_token": true,
+        "voter_token": "952fe7af0116c1311076d867e161f19d",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "5842c12ebdefe3c4a642757c2707921a",
+        "voter_id": "c36f8bee533087517b85b26d0058f4fd",
+        "valid_token": true,
+        "voter_token": "e97fefc2ab24f27bd8680954405147d9",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "d3ce9394bc6eb810c6a8624d168e282c",
+        "voter_id": "65060d96e582e090a06c881b3407bcb6",
+        "valid_token": true,
+        "voter_token": "d19cba57c26e365a7e9c25a56820d7e2",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "8e263f0b6d81cc9a906e04ac725c0707",
+        "voter_id": "0f365cb9eaae923a479b5e1700d06ef5",
+        "valid_token": true,
+        "voter_token": "74e4969122ad75f2b5e0446a60447618",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "d288327a815c54aed64a08e5d12fe63e",
+        "voter_id": "178f4301189b58a5b2c1a2fdae2749b8",
+        "valid_token": true,
+        "voter_token": "1061bc585a3552f566ed4728347990de",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "e9e874365cb006bf4f2eac11743319d0",
+        "voter_id": "69627b606cf469a25aac52634ce3431e",
+        "valid_token": true,
+        "voter_token": "b75b914f7d111227775c8f26b230ed2a",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "7096391222894dfd50baca9c21dd45a1",
+        "voter_id": "5080e794a2ac6a4b668f20fc3a6be017",
+        "valid_token": false,
+        "voter_token": "5622fc09473faa2993f2f23e227eb7f4",
+        "voter_grade": 12,
+        "casted_votes": [
+            "12dc4fe2",
+            "127ff92d"
+        ]
+    },
+    {
+        "voter_email": "a863d94a3d192f7ad18df4903dc49bf6",
+        "voter_id": "18bd184c25aa9f930e9b4ff137a8cf49",
+        "valid_token": true,
+        "voter_token": "93e4b701ec30f246e6cf73bd633d2ba7",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "9306e53954734799a6a30f127da9195b",
+        "voter_id": "21f491ec2fcec99aae9eb1ea321ee4c0",
+        "valid_token": true,
+        "voter_token": "f998df2aa92471f7059c5a12bb687c99",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "dd364b2dfc63d62568b47557b04d8327",
+        "voter_id": "c1aadc5eb0addd1a9a79cfb35338aa21",
+        "valid_token": true,
+        "voter_token": "942ec38510a37f727560ba4d0c565a47",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "3b94daeeb5cf0de00a3ee66db2740944",
+        "voter_id": "6e9aea02ee9a88e756c9e29aff4552b7",
+        "valid_token": true,
+        "voter_token": "31e904234b4ad5d68e69d7cab0afb70e",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "046a3c669a96da73702bc110d7464ba1",
+        "voter_id": "55d52bffebe9ec2d50f96fe342fb4e1c",
+        "valid_token": true,
+        "voter_token": "90dc7a644f48cc84d2ffc5cc94b756bb",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "29a58baea8b2119ea17d65db1d4749f1",
+        "voter_id": "ab6f5e7214413d27b90562cd16d028be",
+        "valid_token": true,
+        "voter_token": "93827fa24a5bac7facb29b2c35cfe820",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "59cf910fd36f71fe594da2fef7cc6506",
+        "voter_id": "5ccbd271c0559646a24b261af42bdb68",
+        "valid_token": true,
+        "voter_token": "a15bd13dffd0e853084f3d74082fcaaf",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "c6891809625c21c8055122f194781626",
+        "voter_id": "9db11e5e08d47a2f5501c6ef40bb2daf",
+        "valid_token": true,
+        "voter_token": "b1c79604fe6ddca9b3f62c60ac40819d",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "a7e056cb5107b2f1613191a8aa84b3c1",
+        "voter_id": "c9ff9bf6124f332dad38fe3ce3a5515c",
+        "valid_token": true,
+        "voter_token": "4cc97ad8c568e373ba1e30227329f58a",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "eb8f260819b932a345e58e47384e7ae7",
+        "voter_id": "ce1bc3545e0b99d2682f11cda81a6ada",
+        "valid_token": true,
+        "voter_token": "fa4cd0bd871c934dcd2b8e2c311dfe5c",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "22133e1698a7256ee72bd78dccc90b74",
+        "voter_id": "67399c21eea6cf0f0ac8a2e9a2a0b811",
+        "valid_token": true,
+        "voter_token": "8017427ea0394cfbb0b1f72cb68aea40",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "a966d35694d6504aa5c4d7bdc0b2bc34",
+        "voter_id": "ac92e63afd9301e0b68287bc61481113",
+        "valid_token": true,
+        "voter_token": "2a6405278d735c6de4df6e1275ec4648",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "fde553f200757260576273658b7acc87",
+        "voter_id": "72d7f86c1824b7d41c85fcbe43b3245a",
+        "valid_token": true,
+        "voter_token": "dd6f8ef0a312186e79272a070f82a872",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "0152336457a0249c74dfe75280323b34",
+        "voter_id": "488354c619456ba9f41c0f56368deedd",
+        "valid_token": true,
+        "voter_token": "9323cd35ce2906589892dade3e9abb32",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "641e6eccd0337d72150fb0d25e678f20",
+        "voter_id": "615421bfb4a3c4178b29b27982317ee8",
+        "valid_token": true,
+        "voter_token": "c2f62433f438c6207aed32422e2878ba",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "47058a457b6ed720e93202b07c5af518",
+        "voter_id": "e1df2f5262f459c07aa848982fdd7a1c",
+        "valid_token": false,
+        "voter_token": "328558992ac20a4b1953f55617dd0a08",
+        "voter_grade": 7,
+        "casted_votes": [
+            "07a712b6",
+            "079c6142"
+        ]
+    },
+    {
+        "voter_email": "57bb98960b1eb4d4c2bc89b1467268da",
+        "voter_id": "1e7418c79e3c4ab2c8c6c626ba2179de",
+        "valid_token": false,
+        "voter_token": "0569ab234e60043b88a76c975200c0a3",
+        "voter_grade": 12,
+        "casted_votes": [
+            "12dc4fe2",
+            "127ff92d"
+        ]
+    },
+    {
+        "voter_email": "4a51eb78a07d04c9a74390a77956cd76",
+        "voter_id": "25acd3d09fc124ef900c75eff46ba3e3",
+        "valid_token": true,
+        "voter_token": "910b4e9d1f710b3cf8b70c0f9ce1d85b",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "f75419c44ca98e844788f641b162b30c",
+        "voter_id": "2759a7a2922d05513600e86613271614",
+        "valid_token": true,
+        "voter_token": "1cae59fe86f006cdec43ad057f9f8af7",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "ee530d274c4c0a18f4dea4b08927bc1f",
+        "voter_id": "30b7267fe95883cbac9fcdf3371f7252",
+        "valid_token": true,
+        "voter_token": "15f9cc7e1fcbe6f66c9c6dbc6387e6bb",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "1ffc28144c27e2c79cf460061ea36d65",
+        "voter_id": "90f70de72938e7dde14e9d42ecca150c",
+        "valid_token": true,
+        "voter_token": "686e9d183c8598156773880249f24545",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "4793a4cea1b4bdd11700381acbab9bd8",
+        "voter_id": "301a09f4e0f2eeaf2f76b8f31fe32507",
+        "valid_token": true,
+        "voter_token": "be405a171f3c11568456f3e6e098ff29",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "34dd4b3c77d209b58b75a63f10b3e7b7",
+        "voter_id": "9331d6d95b4da7ac91bfd431da7c2f8e",
+        "valid_token": true,
+        "voter_token": "5700f0f6492eaf771809800a14a52e9d",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "f7555546d4c93ef05c77cf97f2abe068",
+        "voter_id": "cd8d3184e156751c03a50ed6674bd45d",
+        "valid_token": true,
+        "voter_token": "c6495d92a389128c89c4495ba8fe3d8f",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "2163b92c04a7ca8427bc1cddbb311ad3",
+        "voter_id": "22cf8fd1e6f2ec996185059545e071f9",
+        "valid_token": true,
+        "voter_token": "be4cd00bb1e380fb15ab5b01c8f3c04a",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "e5058d4aba0a2e61a4eb63450fd4775e",
+        "voter_id": "8d779166f3f35d0a472b15d82d0e4033",
+        "valid_token": true,
+        "voter_token": "4b07f36d024cecb09789ce14f5fde77f",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "3b5edfe4c66e18c643c87077a4b94f37",
+        "voter_id": "de66f4ad21c2ea2e2d08b163a9387594",
+        "valid_token": true,
+        "voter_token": "300bd8c2459dc93de63c7ae7354f83e0",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "00fc78d138821053ce405e1ac4431539",
+        "voter_id": "3f6b31c4ecbe5fdbccd9430b0f6fc6c7",
+        "valid_token": true,
+        "voter_token": "62d6dc9d006a3e467b2c46e5a40c9830",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "012bac5c1d2954bafbeaee383237ca69",
+        "voter_id": "dc51805a7a8d7e7e520a8600b10bbc2e",
+        "valid_token": true,
+        "voter_token": "5425f4b0dc023319191a4892d4aaddda",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "884adf228b1b9dc4daec9180df3b209b",
+        "voter_id": "b52a7ea4b9de7933d27e60019ef6cd11",
+        "valid_token": true,
+        "voter_token": "dbba12740992948674e2fbf755514afb",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "4202e7ab48d2266cd76a95d75d45adda",
+        "voter_id": "1a6dca356cf90bfce1de9eb519c6a1b9",
+        "valid_token": true,
+        "voter_token": "e7a05a96ac42c809b22eaacb06c39b8e",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "ff9c0db32cb629550de54523983b3c90",
+        "voter_id": "934d23ce1131ff50c1fa2023b3faec84",
+        "valid_token": true,
+        "voter_token": "81afd9e2d296e9fbf8c921de895debcd",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "cb253da5450d4b1b73e40e8fb3d3305e",
+        "voter_id": "5759c13c845a11c5c8e345c8f8162288",
+        "valid_token": true,
+        "voter_token": "364be3070bd25c38a6f7a10c7d69a537",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b7499fd3a8b1095e68d5a70c83ce72e3",
+        "voter_id": "036c5c9cb1a84040ffccdeab731a05e8",
+        "valid_token": true,
+        "voter_token": "531e85293b4c002947bf7c28139d1cb4",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "c548ae1ae87db971efd38cf2cd908541",
+        "voter_id": "e3ef994139347058cf681b1131a511f2",
+        "valid_token": true,
+        "voter_token": "f5c2cd22572fdaa132b521144d652806",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "de621743a4f691154409c79333959c9c",
+        "voter_id": "c9070ad2decff2981739e04406d6e6cd",
+        "valid_token": true,
+        "voter_token": "e230305dbd2e5c5422aa728a315926d8",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "6f7a74f14c0d7c0b83a3235a33d61678",
+        "voter_id": "04d70180349e940df48a2b2f7e3d59f2",
+        "valid_token": true,
+        "voter_token": "4800f2231eb007ea5b17f5d9d0212c88",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "1d55a2a8515adc0cb8915d0fc4fb9f7f",
+        "voter_id": "ebd964df933813c778f48533bf957751",
+        "valid_token": true,
+        "voter_token": "fafb5c8cca6ad7ef1df5857ed582fac7",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "3fd3ec91875525ff48aa89b8ad8f42c3",
+        "voter_id": "312fd3db745ef814f12fc9e0c73269e7",
+        "valid_token": true,
+        "voter_token": "2cce332e5e6d6dc93acb6fd309c327b9",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "d26379c69e105fec54aeaf41a1b44919",
+        "voter_id": "aaba8d930cf83b9b9ff5ba458fc1b504",
+        "valid_token": true,
+        "voter_token": "c373efde4b0237c4941f4cdccbefdb04",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "24b9dc48a311a793a18fae233d4272fe",
+        "voter_id": "4232f6f98bd4f9d040288bbcfa9175e7",
+        "valid_token": true,
+        "voter_token": "0864e24232de21a860f6d7aa7bc4ddf9",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "f8e2cead60a771f9888ebf6430babd9d",
+        "voter_id": "28608258a25df2315ccd27d7339dd788",
+        "valid_token": true,
+        "voter_token": "1fdaf98992b4804b9e4983323f0c3e34",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "51963ca7fa275f98c762e44844910b4b",
+        "voter_id": "3fb4e2d0b224b7f4e657e29167804d9e",
+        "valid_token": true,
+        "voter_token": "fc30d72f2cf2131725861acaf24d3b70",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "89826346397f1b270285151ad7de3a2f",
+        "voter_id": "a4f777807b842281067cd485bf5f1aa4",
+        "valid_token": true,
+        "voter_token": "1276db8423397d9f3dfe83911a73f1e4",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "1b1ef82502876d75b48b00d6e0c3026f",
+        "voter_id": "f714791ba186ffaeece402817448b9a1",
+        "valid_token": true,
+        "voter_token": "781fb145b2ff6cc4642cddf3e531e0df",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "46251edfe608dd020be21820485d84b9",
+        "voter_id": "ce31fbc4300cd720794ef18090e71ba8",
+        "valid_token": true,
+        "voter_token": "cb0687a6e6bf117d43fc3c0197b02142",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "7c090181c79ee7035eb2d216040e0dee",
+        "voter_id": "8e6cc87649f8318f6c5004480ca15100",
+        "valid_token": true,
+        "voter_token": "a6b04a983b409384830af18cd237f26f",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "5e47b6a55db81551af3f835d4e6be25b",
+        "voter_id": "36d38c4cf7ad245b5c043c2c4a12ec0c",
+        "valid_token": true,
+        "voter_token": "e829bfb2b1b6e56a2acb8172f064113e",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "50fa1d29665c8fbb0ca4ba9cc29c6f9f",
+        "voter_id": "73b6bfb5b1789e3748175e2b7f4e4b1e",
+        "valid_token": true,
+        "voter_token": "ec5041133808a83430d0664efbc4a6df",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "d7f3f56cd61b5f8cd8f579f005c5cf06",
+        "voter_id": "c8deb1fc55be76c5a38c96d383399a6c",
+        "valid_token": true,
+        "voter_token": "ba88a62fabec5e647b6636174a7ff954",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "2d888a05cc8e22de687ff46181707d13",
+        "voter_id": "ae28ca54c081f3bceb914bfa23565a33",
+        "valid_token": true,
+        "voter_token": "ea9373e09670b959401a4e181de401eb",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "767f6d0053e3fe63ccbebd88a020550a",
+        "voter_id": "b7000fcc3121d3d4774e30ecf2635896",
+        "valid_token": true,
+        "voter_token": "bedee17e5c88d77e13548060a7ba45f5",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "c531a3bb630a5312497faed313e81990",
+        "voter_id": "524287de2849d99e7a5e54a419628141",
+        "valid_token": true,
+        "voter_token": "0ff625b479f93622469c5cb7949729ef",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "28b08c822c4adbf6a5ab4b2fca9564ea",
+        "voter_id": "fdca37baddd021639a0453f26bd7e917",
+        "valid_token": true,
+        "voter_token": "a112c14ee4d4d443fbb40de6fed33042",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "440287e66e1a4812bac3a9ab34a402e1",
+        "voter_id": "95cf80aa253c3e4f8246b403eb5553c5",
+        "valid_token": true,
+        "voter_token": "ddd802aa89ed595fa4bbe894d37ca608",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "a506b7b905a251a9a8da0754e279bd16",
+        "voter_id": "6e6176b867d7d916e5b7ceb9b199541c",
+        "valid_token": true,
+        "voter_token": "b77b23f4f7151fbcf67075f4fc18397c",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "84b527582f1bc3023ad02b17000c27a6",
+        "voter_id": "a58854247b176a07cc9e1fcd49da4803",
+        "valid_token": true,
+        "voter_token": "5f946a8e6c13e3e73e4278dd9ff3d0b5",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "30a39fcbd726e07decf2c1f7ff0bc488",
+        "voter_id": "9510290a00c5a93e0fabaaf587477a83",
+        "valid_token": true,
+        "voter_token": "172048dd1a1450012060b5b7648543c0",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "5869f6076d4030bbe1ac25774c5fb748",
+        "voter_id": "41d414313dbc648e8c742c572a247645",
+        "valid_token": true,
+        "voter_token": "38880c71ccd64da5abcd13e308427c17",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "5f7b48b846a0f2cfd0b2a466e6540f45",
+        "voter_id": "d0aa25c28fea0ac3e1d393cc6729d421",
+        "valid_token": true,
+        "voter_token": "43939ce4876710a221a98b5edd6b7a62",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "40d589fb732a9470fde708d787cbe76a",
+        "voter_id": "21acbabe896065c72d8cc6c07c4bdc5f",
+        "valid_token": true,
+        "voter_token": "0757894829c11a8c80647bb0a64eaf57",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "7465b8b768175fe1233fe444d764458f",
+        "voter_id": "d93699180e281b230c2970ccc74eb7b4",
+        "valid_token": true,
+        "voter_token": "7fdbc30cfd5fb99bf7ff007f133a350c",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "3fc6390577e3aad8725b2248a6be1c7b",
+        "voter_id": "677301b1c429fcc28855111de134eb66",
+        "valid_token": true,
+        "voter_token": "ad9826ddf89ae1c0ad6dfbf33ee185fa",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "7688ad6370e1af22f2727173af011e8f",
+        "voter_id": "2983407d51718fbf85d7c1ecf4833253",
+        "valid_token": true,
+        "voter_token": "991a5cf271e6bc7d62dd19c310b3eb18",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "7f96e72a2fe19526bdee1aa81c18f24c",
+        "voter_id": "070c4cd6fb7c072c1a2e7e0fef63a830",
+        "valid_token": true,
+        "voter_token": "1c826de5177f286be17bf67a95342c66",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "59967a8b49741922c78a79bed96f7c87",
+        "voter_id": "36309debeac96d69239cc5490c759a8a",
+        "valid_token": true,
+        "voter_token": "f77a1014e2d93c5626b5588243fb8b09",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b6d2657bc9a7edc284126403206b69ae",
+        "voter_id": "b431e261ff3a36a09ba741444e045dde",
+        "valid_token": true,
+        "voter_token": "32aa000d2c3e1b980955e7fdb6c2e811",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "aaf97b9e872920956599ecca626979e2",
+        "voter_id": "7d1504c3e7322bbaecc548456cf71dd2",
+        "valid_token": true,
+        "voter_token": "4744a6aa1c5b52e8676ddf6066cf2d63",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "720d49b6526c1b26ff86dfb8e8bfbcee",
+        "voter_id": "fe577261cf814f52d4e32740482ade21",
+        "valid_token": true,
+        "voter_token": "c58c4548437d378c815655225b464ae9",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "44307575c80f9946f6407a0af0a0c094",
+        "voter_id": "63a68acda19c9d0aeb2762d9fac85ccd",
+        "valid_token": true,
+        "voter_token": "b17ac816d423984b27ccb3c877e5118d",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "a50e7899747993b9341a94c4edd5c331",
+        "voter_id": "e026ad310d0c26bcb6098a012fa8eb73",
+        "valid_token": true,
+        "voter_token": "5bf7d51c1f776094bde9b5d810dbf5e8",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "503376afff613d86144b211e43a04790",
+        "voter_id": "ba2091a89db8417fe2be49a54b0ac411",
+        "valid_token": true,
+        "voter_token": "5372a193f8d239122d7839fd18187c59",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "0cbf05f89b878ff7c8a26c232fef46f9",
+        "voter_id": "e6bc9d8a210bc74dbff3934af43f8f8a",
+        "valid_token": true,
+        "voter_token": "e14e06c3c58cad838a9aa371ce8ecec5",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "44e42645f57974627e88e5bee9c216c5",
+        "voter_id": "6b14f7dbb71f250eb2d3c123f0626e68",
+        "valid_token": true,
+        "voter_token": "ce614ffd51d1b04732f56d9429dce307",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "8e83ffb4b4b3cf02c85580cc6fb92f19",
+        "voter_id": "9726eaae3eb88df450948c8684430949",
+        "valid_token": true,
+        "voter_token": "4e0bc84b4cb2f1ddd303c4e297589a45",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "98ad1769c323fcbb45bfd19b0e7ac447",
+        "voter_id": "fcd3385074ca463c4127d717f4adb7d1",
+        "valid_token": true,
+        "voter_token": "661af985ea11e628f53e495648d77551",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "727a0378eb8d7c2435a7b4a96557bdbf",
+        "voter_id": "04ae1bc61d4357bfd52912a0db46989b",
+        "valid_token": true,
+        "voter_token": "2e6b8fc7c47fe008a480ca5e82f6f2fe",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "4289b4b5933064d17cbe67c9f3e477cd",
+        "voter_id": "426deb785dfba78cacd99c9c21511389",
+        "valid_token": true,
+        "voter_token": "5c878760e08ae52c63990bffe6deecd4",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "351da83270d6762a772e4cd8c6537c94",
+        "voter_id": "c883b7ed859a6a6086c16df649a6d417",
+        "valid_token": true,
+        "voter_token": "2f98a86cf7157eb9787d4bf62e7a276f",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "ab021da7087c23e31bbc49a771d4bb4d",
+        "voter_id": "082ae2ff635e04c0994114cb76fe831d",
+        "valid_token": true,
+        "voter_token": "029113c083435f35b04314ce64fbb93a",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "6c127ca06f776a03f9042028a216d1b8",
+        "voter_id": "20c8325eeb695a1f03a3d9dd34e2ca40",
+        "valid_token": true,
+        "voter_token": "06471c4982834d71e94aac3fa0d714eb",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "c62b06d7abca90e030b4b438773a87c6",
+        "voter_id": "b65e238bc56d942d288039f4ed615af4",
+        "valid_token": true,
+        "voter_token": "69aa2067cf94e758063f96cba733c752",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "e546943d7153e21dbe6451d3c0831b70",
+        "voter_id": "bed41c88f2308a3500001bd3c068e79f",
+        "valid_token": true,
+        "voter_token": "a3898cdcd0dd10cf1a3a3cd37e3d0405",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "245286f34ff134d541bb31ea184c7600",
+        "voter_id": "d53d53f62f9ed6dc8619c4d43fa07de2",
+        "valid_token": true,
+        "voter_token": "b7f511befee05dd695d54cd62c8dade8",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "862c8f0b0959caf7df73f60e542a19dc",
+        "voter_id": "53a91cd8a60d4bd10b778aab3da4e112",
+        "valid_token": true,
+        "voter_token": "896d72176677672c37ff85f039447c05",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "8f98a1261bd541cb379635d5dd9c0c5d",
+        "voter_id": "b90a3329b06cf51ad1d68f5949bcff8c",
+        "valid_token": true,
+        "voter_token": "317a58251345a0f86f74a3767e6d9036",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "9636a621e1d4a75854fe9846992fe35c",
+        "voter_id": "58484b38ea4d54bb31663fc636d37018",
+        "valid_token": true,
+        "voter_token": "cb9da763d313f9fcd3bf61f3c13114d1",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "fc7f4ae444262d4c3bcb23df44ae1b8f",
+        "voter_id": "3fc04165ae8a7728e786f3ea88cd7629",
+        "valid_token": true,
+        "voter_token": "fcb2b2b101d64eddccc107ce98c4f6a3",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "65d1081ffbcf15bbdbd872a25f2cb91c",
+        "voter_id": "c05b738e9422210f6789815806b5fc6f",
+        "valid_token": true,
+        "voter_token": "300cbbe2a6548f0f70734f4daf9fb08f",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "f9541c269c47ac73ba6266f600706126",
+        "voter_id": "33a806d44468aad068975439fb805048",
+        "valid_token": true,
+        "voter_token": "cd5c39f498820e792990ae366744f957",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "4e3bac7e8cdcb3f56bdb52adfca5090e",
+        "voter_id": "240b1a65a37965599a32cfc4277f8897",
+        "valid_token": true,
+        "voter_token": "d8cd334066c2e5491050eecc35112bbf",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "0009f7b090237f40138f62ab630cc4d1",
+        "voter_id": "5fe5f4beb1cae2115519b0dbeebd4227",
+        "valid_token": true,
+        "voter_token": "b1de7db47828525b2ed579b44c59f7ac",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "4e8cc1b7159decd63468deb4d65ed2ca",
+        "voter_id": "3d9603d96aaf1839b23760b4cdb96a8f",
+        "valid_token": true,
+        "voter_token": "0986e663417e08844445a5920173e278",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "53675d619e9f9bbdb3eed64a01c9a6d0",
+        "voter_id": "972d87d453988d20f4a1fea45d1bc67d",
+        "valid_token": true,
+        "voter_token": "4194c917a94273acf3526793323a1898",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "c13fd88991585255d5500c29189534a2",
+        "voter_id": "04c01629ae94c3f1576e4bcf2d318d48",
+        "valid_token": true,
+        "voter_token": "eb8bd11313191499945afb1f65f66136",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "2453e20850cd541b346bfa9c6f4b72fa",
+        "voter_id": "bea5221a1333f4a378739c266e933f80",
+        "valid_token": true,
+        "voter_token": "75f9f62acd3cc534dac399d8b4f12926",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "10a2c0c521e3528f67f88b824f28f1a7",
+        "voter_id": "b1c97f0b5fc5df11062111e10a5b226a",
+        "valid_token": true,
+        "voter_token": "a14f8909dedf97fa191fd38cd48c3300",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "fe0c549136f5a17b5b165c96093ef199",
+        "voter_id": "a02817e1ab83a3ea112d639f79ec6e3f",
+        "valid_token": true,
+        "voter_token": "9f33377b17be8c71589fac2e51cd23d5",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "4d2235056002e5ac04a5add40c2bb7dd",
+        "voter_id": "6de932a709660bea24fd99e900ba8d62",
+        "valid_token": true,
+        "voter_token": "7f296808408eff35dc0ae517f4b84925",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "a3ce21bbcb6f574b3aad8e280b381249",
+        "voter_id": "a856e842261a4b840e9312760a8c367a",
+        "valid_token": true,
+        "voter_token": "c90b55647a38a62306d2d5c2c746bac3",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "dee1972550b952a56309f4b4ed7566fb",
+        "voter_id": "9e0011f7ac0e7098322c2c2473c4ccf9",
+        "valid_token": true,
+        "voter_token": "9ecccc75a478c60649f48b747da80e9a",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "ab3677d544fe7bbc261fd80a9943a375",
+        "voter_id": "7eb5b7e74c6448737c6c9b0ad3155bf5",
+        "valid_token": true,
+        "voter_token": "3d8e9568b09983ccef716da03f0cecb3",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "e26d042d197b7e7ea3e85c9347cc64c1",
+        "voter_id": "0474b3a9c13f4391439fb4bb0db413bd",
+        "valid_token": true,
+        "voter_token": "7794acb9695c5e99ff7a0c9ce2420548",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "6016b985e4f92a7efe241b9a6ca60b73",
+        "voter_id": "bfa3d7a5e8c71307f251d75bdce32eed",
+        "valid_token": true,
+        "voter_token": "8727fdaaaee87a7124d1d25b51d50707",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "46f10f816cb3d64c0fce59e5a318b2ce",
+        "voter_id": "3ac5d439f5543af2c18e73e7ea3211b3",
+        "valid_token": true,
+        "voter_token": "0b13a75a11ebd2c622e86e4bf61cd555",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "e16b128a4eb99f3d24ba9ae8f3c69fba",
+        "voter_id": "7e9864b750c1ad20dd4be45d285de120",
+        "valid_token": true,
+        "voter_token": "fd62302db3b673bfe787574f5ec6f8d2",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "12a3646bd7a8d67af6b84f3b6494dd50",
+        "voter_id": "a3a600e2a15b13518a2f8567641d6285",
+        "valid_token": true,
+        "voter_token": "6c49d7fba151f26b6e2e261343818dd4",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "3225c2aa9a73ff4d1c74e5cc1572e3f0",
+        "voter_id": "331600e00a166818ff250c6b172a0abe",
+        "valid_token": true,
+        "voter_token": "cbefa2ba4849b70bba68d47a0a66e332",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "bea4711a2377525478a938b91d42243a",
+        "voter_id": "1f72bbfa9283a0d06d1e7e6300d00222",
+        "valid_token": true,
+        "voter_token": "72976dbec6053bf776d8e83d568cecda",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "9300af6889ad75ec21ba6df3d4fd9290",
+        "voter_id": "9e679fd667d3b5d4c36e9a269e90e01e",
+        "valid_token": true,
+        "voter_token": "c24ebf735d8e78065ebaab242b171931",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "5afa4f874c9136cb5b3b36f358626b3f",
+        "voter_id": "de309dd896ca2c8883995b1a52302c3d",
+        "valid_token": true,
+        "voter_token": "924cdaea639fdebcaf28c32dedcc9fd2",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "db8a57ae4f78cf2bc4866482b65f89af",
+        "voter_id": "e81d7c3b82ef4f9574068df103947075",
+        "valid_token": true,
+        "voter_token": "2101f7a42c2b67a51fba837c9486849e",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b1b513c174dcdb6d7b4e47a5fa04c49c",
+        "voter_id": "0f24d10d37471abc8763322f783848ea",
+        "valid_token": true,
+        "voter_token": "0de4a0b835c77236c7b3d8dea883bd8b",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "c9c53b4ff90d1fea804dfb538efb4235",
+        "voter_id": "08c3d0f16e41a99c67eb38945efe796d",
+        "valid_token": true,
+        "voter_token": "e216d56c6010e5c488ad23e211e4deaa",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "d43b29d0d37898a1efdd298558e84743",
+        "voter_id": "0c16f074892e9e90ee448c9759a976a3",
+        "valid_token": true,
+        "voter_token": "3c948bdfc24e734f880610578994aa04",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "541af7580c262efe7065bd817bb25a58",
+        "voter_id": "8d81369af8c0822d4e890709ffa20713",
+        "valid_token": true,
+        "voter_token": "d5b1640f4842fc83a33e8635fad2bbe2",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "ceff29495fbd57d5ed2687687688c5e6",
+        "voter_id": "1c5288e872d516456ac767b70cebc28a",
+        "valid_token": true,
+        "voter_token": "4b4123e1f4b4ff3a6dc3ddedb17fb4f9",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "1bedb91eea1eb41538ddeb6fedee83d3",
+        "voter_id": "e6fff246aa807577fb6cec742d8c0825",
+        "valid_token": true,
+        "voter_token": "8bb2924663fb849f31f4038b3eed0243",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "d6aa3679a345efb56a8ac898c8aaf370",
+        "voter_id": "2a54daf05ee473f5265272fd46a32fd4",
+        "valid_token": true,
+        "voter_token": "d8575f4b1980da13812c2d5900080f67",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "03307723c4833f9f22b270789da25a76",
+        "voter_id": "db6ed0c60637fd0b7326ded968b3f0d1",
+        "valid_token": true,
+        "voter_token": "eab745da5511dbde65801ba7e8908f43",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "1a804f7d578eab39b6b80d8a11dadcca",
+        "voter_id": "b228c222bedcc280853510ca7a4d4d4f",
+        "valid_token": true,
+        "voter_token": "8543d8f7fd7afea255e3d4e83055793e",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "06d3e8f03a1b0bcae9986fbb5c77480f",
+        "voter_id": "5804d197074ca9771f84c9326faf22c6",
+        "valid_token": true,
+        "voter_token": "b3370cc2b28ae770a94d36024c40d287",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "2adc526d61b227e94ef37fa3b183363f",
+        "voter_id": "47132b74c5394bb9a5e4e23dc73e1882",
+        "valid_token": true,
+        "voter_token": "6ae09da3305fb4211eada13f4ab9abd8",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "0490d145b52545fe66d9ec2c5b0d8615",
+        "voter_id": "f2c4136659ef9b9b565806490071b090",
+        "valid_token": true,
+        "voter_token": "9dc4a11b61b9ef45873227b852d00f21",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "7918fd74d0735f0cc71c3e205df42d87",
+        "voter_id": "c00cd96bc84e496d46012c21a5c97813",
+        "valid_token": true,
+        "voter_token": "d43767634a28276e78c80b732cbd4d4b",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "2216d0728752abb4e7f21a3800f73c88",
+        "voter_id": "f001c21edbe976eee8408e43312b1558",
+        "valid_token": true,
+        "voter_token": "f2ff21365ac164d05119cda19a62982f",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "bf190320dcee9d5554c831ab54341893",
+        "voter_id": "a949949d4b848e064c11c264e8b7f178",
+        "valid_token": true,
+        "voter_token": "ba0af7d6d571cdf7168baa641711ef3f",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "8de2611eb237f4dcd89524c4b43ee843",
+        "voter_id": "a9166f81e2538c92714dc363ffba106e",
+        "valid_token": true,
+        "voter_token": "ae2d2b18f830d985956a8e2c64c7b903",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "eec8be71e64d7c05e78fcd0adfb1c1dc",
+        "voter_id": "a9db2597401c6cc388d2e6c0313e9d41",
+        "valid_token": true,
+        "voter_token": "c650117bdbcf337177ea8deb2f3ad83a",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b2dfbe85c271dac19527e1bb0d2aa3a0",
+        "voter_id": "0cc23de6a631eed67816e84eb3b9e0d8",
+        "valid_token": true,
+        "voter_token": "98baff1f6d1c4f546889ed8d4c0f150f",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "ec9ab3cf2fa9518b50bf682c31370780",
+        "voter_id": "32b9779c32f7600779a709b649f1e5cd",
+        "valid_token": true,
+        "voter_token": "a2be2cf96e9669feaf2788e6c4affb4f",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "57154b7b85d6e4bc3e36ecbe8ca2a7a0",
+        "voter_id": "95924c7a1740c679276659e3361e4989",
+        "valid_token": true,
+        "voter_token": "53426eaaa7043d07d89ee4b52ac7cb42",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "34efd0a2f8be3d02a9a1b89f5e3d2930",
+        "voter_id": "16c96abe3c93f71b4cb49f8b3d89bb2a",
+        "valid_token": true,
+        "voter_token": "83053acc1349879ca035be28d8473bc4",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "08f331803f61f3a01a2e3a60d5d025ad",
+        "voter_id": "857c61b994233a407037e37dbed96de9",
+        "valid_token": true,
+        "voter_token": "a71b6e0e422e66b110fc3648c03b5cb1",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b0dc6296d1d404f3a6326d322dbf69f4",
+        "voter_id": "72a3700df5b3998ac123a430864abe74",
+        "valid_token": true,
+        "voter_token": "b2925866288289b92a7ab13dfc720668",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "c522d47ebe499a44457e4850377b416d",
+        "voter_id": "e92bee1c82dc85e808dec5f482d65c7b",
+        "valid_token": true,
+        "voter_token": "e4f28c09d049e15299a9e9f85570a336",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "532065f3a34f70e049b1a14a4e8e5670",
+        "voter_id": "4085727b08e0c5d5f30646c463d32715",
+        "valid_token": true,
+        "voter_token": "84ac1f7d5795d31784aed64b3ec1eae5",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "22f07491bbefab8c97b7b8f959812ecd",
+        "voter_id": "f419e847f967d279fe29297e80d33fd7",
+        "valid_token": true,
+        "voter_token": "f36d23590939b52e2fbca5a63b9f2f47",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "13e16eaf4c89b2aaf01d66fc5684472b",
+        "voter_id": "466f6ecd78f0bbc4f252fbf5b3534e94",
+        "valid_token": true,
+        "voter_token": "9e4b55587c091f9bea5b982facf966f1",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "1d2cdbb05d5bc2693c70e8ef5711b532",
+        "voter_id": "3de960cbe03a698970dc6a90f7722671",
+        "valid_token": true,
+        "voter_token": "9752c2fbec6de2a8f9e59a80705320ff",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b4659c8ae07702d43b436f17a86479c4",
+        "voter_id": "c0973b55c185982e28315096cebc45a9",
+        "valid_token": true,
+        "voter_token": "0008e3bd6596092c984489bfee3dc0db",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b4fdba59a15aa31979cdac69e42bc5a3",
+        "voter_id": "31ac649ef7dd65f4c5b0c03a6d7f7cac",
+        "valid_token": true,
+        "voter_token": "5b9ebc1dc4c412b76392726f60efa822",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "36bd09716b0285ecbaa7a5bff3d78fdb",
+        "voter_id": "082be775d9e20d2b1c16987e1f0bd59c",
+        "valid_token": true,
+        "voter_token": "63c908a307f7edfe56d8e824b7196d1c",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "f72e84403abac2c816ebf4a16a303f41",
+        "voter_id": "d9511b7290f9f4d1430fb6bc7a38cb2d",
+        "valid_token": true,
+        "voter_token": "4cca314e6db64f399e24521264edadf9",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "9a28817bf01a749be6522a585e8e2706",
+        "voter_id": "679a3cc776b60c8d5a629c26f982da15",
+        "valid_token": true,
+        "voter_token": "de49c0f2f595d800d3d6f72f2a0252e2",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "44adf7af9bc7367a6adc70443d8afa97",
+        "voter_id": "be6fca42d7a8377b4a1cb187534b2143",
+        "valid_token": true,
+        "voter_token": "d472b5c95600c4f954c68ace102bef11",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "d95b222b242b3fa3c989fc7197fd7e66",
+        "voter_id": "2115f5ccfdfc545382ee8952ff857d41",
+        "valid_token": true,
+        "voter_token": "0d0e249b5b9bc389676961483b199238",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "57ac98fca994eafa4ee1fd8e00e9468b",
+        "voter_id": "ccfddb4314e25b0ba8f77beffc2e37e4",
+        "valid_token": true,
+        "voter_token": "5cdb105107b6890c35dc0b6b7ba5fcb9",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "10860f32d2c276bb8a2348650ec55941",
+        "voter_id": "05cdcd44406a37c1a97132781cf5b31b",
+        "valid_token": true,
+        "voter_token": "c60845962c6baed16586bc34e237b73a",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "6923c725f27277ae4ad31ddd05e67d17",
+        "voter_id": "ccf30e0a8024ef4022caa60d73913f24",
+        "valid_token": true,
+        "voter_token": "dda1508fa755d41167405ec7e3ffd130",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "ee46ce1e2a09e3451352c82bcfeab179",
+        "voter_id": "f8c94045d15e2fc6bb04784bf5256392",
+        "valid_token": true,
+        "voter_token": "eeeb1557bd77e8d5249b2c518439f64d",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "a33acd977b10afecbd6d5a7ef64d8267",
+        "voter_id": "fd84c9e29d5a54289e5633fe58e49add",
+        "valid_token": true,
+        "voter_token": "5462e0d65b7ff182dd13dcff20ff4b55",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "1492f97c5a8107b9834799333d37bd72",
+        "voter_id": "c29fdcf4fbbfd84ca9fd03c8084175cb",
+        "valid_token": true,
+        "voter_token": "ba5821733984701f4304818fd2f532c9",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "7b35cedc36fa56f0c5aba34bde13e612",
+        "voter_id": "76d15159d827a75d1cf99e25207037eb",
+        "valid_token": true,
+        "voter_token": "32bc782d15bd39576065d0cd285337f7",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "c62408dd219f4a0b1d0c175447886e09",
+        "voter_id": "a2bd1a185b2e9187dda3f167dc80c887",
+        "valid_token": true,
+        "voter_token": "b029ce3a85582741aee10107e74850c6",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "ade9cdec996c76e4a6fb46fa432c3a46",
+        "voter_id": "f8dbfcfd65c42c2303845efd952c6e79",
+        "valid_token": true,
+        "voter_token": "c12efba7f6c61cf8ada2854a163aacb2",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "14941ee5b06545a249d5daa1fa1fe018",
+        "voter_id": "a88f5408a5ff399d2a76bb53bd8e1646",
+        "valid_token": true,
+        "voter_token": "fc79651a916a0ee3705e502eecfa2e37",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "cc01fd0484cd0dc875753189f956f78b",
+        "voter_id": "58b904e7ead25fc72d750060ebafadb4",
+        "valid_token": true,
+        "voter_token": "7e4ddd7cc5e58dd1c1fe637b49987892",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "50ffa2f89c861a7a7039fa22958550e8",
+        "voter_id": "31337f9806f5eee1222566716dd542ed",
+        "valid_token": true,
+        "voter_token": "df00d10159911e15ddc1ec6704367412",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "3073ec41db203f9bb4b400c4c14bdcaa",
+        "voter_id": "81bb1d8a17e654bbe7e2dbaab1621dc0",
+        "valid_token": true,
+        "voter_token": "b262deabfbf22a25fd6ead6c166c206f",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "72b19ee317cd2f185fb5aa50c821f336",
+        "voter_id": "771c8a5c5bc66e5be39233932fca5e76",
+        "valid_token": true,
+        "voter_token": "d01b5c73945bb3527a118a8b41dbf8d6",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "766387c570d1a4faffedeee11c052a26",
+        "voter_id": "b48c2e0881c30c231d0c27d2aca44ee0",
+        "valid_token": true,
+        "voter_token": "5de550bc680de6e66ef8a5fcec9d76dc",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "db5c955d34392c069db2e07687509e5c",
+        "voter_id": "e2ab5e42b2baac06613e9748aef4212f",
+        "valid_token": true,
+        "voter_token": "f08116012a183e692f8be84704136e60",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "3f8372e1d7dd8fa59b03f2871fe350cf",
+        "voter_id": "ecce3c16b6d9d50bc72b989d07bc4e16",
+        "valid_token": true,
+        "voter_token": "493fa8f908ebab892fe2cf38f1d7d71f",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "36097ca5aa838106e42232c96751a483",
+        "voter_id": "8c84171111a84552ff09d6c53251910e",
+        "valid_token": true,
+        "voter_token": "6a45a06618b7639f5437d8207f067b86",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "ab082947794d7589215f6a1a3a81a6b1",
+        "voter_id": "cd16542c656918672197acc6a44793eb",
+        "valid_token": true,
+        "voter_token": "139762b9c5b739855156f1f846ced13c",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "ba45c556b4af7bbfec60d57e2a27e846",
+        "voter_id": "8de913b2e5e37d70defc9b054a00abbd",
+        "valid_token": true,
+        "voter_token": "57ec9af921708f04fded6cf04ebeb218",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "2594b9379d8f07ac90795bcf5aa3ff66",
+        "voter_id": "0c501f63a0e178f7ecabe41fb48ed12a",
+        "valid_token": true,
+        "voter_token": "14baba83a5374ce963f6b9f1ad961b74",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "1657150320e25675cb625a68e1ac30f3",
+        "voter_id": "06e4db34ecc9312c4691f50b788ce1d1",
+        "valid_token": true,
+        "voter_token": "54f117c0223e5122eb025fb2c3821855",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b55b8ce49f4edfe501325e40e1c6bd31",
+        "voter_id": "a0612be5b4d462f74db43a2957fd044b",
+        "valid_token": true,
+        "voter_token": "62352ebbbb76cbd141d597f4e8cc08aa",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "6587371c04c38a3987087978b5b267b7",
+        "voter_id": "90cc083de3ad812e22318a3dc5004ff6",
+        "valid_token": true,
+        "voter_token": "e7da6bdd1db9c73841b99c2a93b735b0",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "041a0ada05e7a31474aa6fa9501d8288",
+        "voter_id": "3b26edeb48f1930ade1479da20eed958",
+        "valid_token": true,
+        "voter_token": "26ac55985c05a64a714a7e4ce538c429",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "8c533de8c81bef36aaa03058998fbfdc",
+        "voter_id": "eedc2bf75dfbe066cffadd50c5cd7b00",
+        "valid_token": true,
+        "voter_token": "3936a561b541f6c65e678679b333236b",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "a422cc381740c337bee79678e0d836c0",
+        "voter_id": "cedb5fd55065fd6cb72771619b4abe23",
+        "valid_token": true,
+        "voter_token": "ed0e7bdc51fd06e1148f966a4de2ac8b",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "04120051228d432e13389f827e2c424c",
+        "voter_id": "e4cbd1646ac3b42560eefa5843d2b69e",
+        "valid_token": true,
+        "voter_token": "d4a1311b5ee031d9b9aa162fdaef5f1a",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "c4324e993729124e033ab647d456c889",
+        "voter_id": "d168d03469225c0e5bdf828775a92a0e",
+        "valid_token": true,
+        "voter_token": "c2f19fb59c5fb2ca461a3854067a7853",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "07cf06b27f8661d0a94bc2369dc02ad4",
+        "voter_id": "1be18073dfeff8e8313fa2e6487312a5",
+        "valid_token": true,
+        "voter_token": "dc1555e4f6b744007e042b48d6ff349c",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "f708045c15a252af5bbbd175c94d54a3",
+        "voter_id": "020637fe6ab4c902d8c3523ad45e0425",
+        "valid_token": true,
+        "voter_token": "31deb7b2421c82e183f21eead4c47ad3",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "de44dc4d6e46f8a5eb076477056dea4a",
+        "voter_id": "ba3fc39408a5eae055729d97fc0775b2",
+        "valid_token": true,
+        "voter_token": "4d705dd09246fc56d9e3e88063bf75c9",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b5b940f602399dc92741af95ffc6b8e5",
+        "voter_id": "25eaa0678c538d9c3a7f9cef15761871",
+        "valid_token": true,
+        "voter_token": "777ff97c4dd50f8ac5e29710492fbd8c",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "347925107fc20998c7c9eabac1c90ab9",
+        "voter_id": "7f2d36c86c272b7798e000c13bffa808",
+        "valid_token": true,
+        "voter_token": "63a1449ee0d38b46eba36b1f624f6427",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "1bab76058a08c2b09a6de4b5e4e55ae4",
+        "voter_id": "9238dd5ad63328d7d8a1f6f5cc4ff24e",
+        "valid_token": true,
+        "voter_token": "3889811af83fa87911881f07904fea20",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "d5db97f584c913640c1910dca6f8b7b1",
+        "voter_id": "609e029d7b82b8bb5ad9323ab16eea16",
+        "valid_token": true,
+        "voter_token": "f29ab2ffb375ae7baaf99879d0cb63fb",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "39d9b28705e0fe786f73d0de79e47229",
+        "voter_id": "75daf53544249e0d9e5fc1d1e6800ad2",
+        "valid_token": true,
+        "voter_token": "7bd10137ed53562b5426c3ace34dae2f",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "f4f378c126ad019476d57a3bf58e672c",
+        "voter_id": "8ae50586258ce2e3e327752b9e84ea09",
+        "valid_token": true,
+        "voter_token": "ee02bde7d3790d87512b195933f3ef65",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "db85a4727295e5e24ffba2752d6f4a57",
+        "voter_id": "f844380b7b7f008df17e8e03b3731284",
+        "valid_token": true,
+        "voter_token": "9724a6a696c1cd39fb343423c551372b",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "e5c5cefbf978ae3bf30f8dd7b24f8f8a",
+        "voter_id": "7897af2f5f6ba1d0b14972fefe113976",
+        "valid_token": true,
+        "voter_token": "612c05747c062b8bdb06167a61181bf1",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "6cb633767cf92c3a29c2608a61eb1077",
+        "voter_id": "35584f133e2f8dc551ba049747bf0ce6",
+        "valid_token": true,
+        "voter_token": "17038d2a2e97dfa22809aea16e83346f",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "bbd2d4edfd81779ca5d1311c23a13c3b",
+        "voter_id": "8b75c85d3a75f546caf047b8c69a0b38",
+        "valid_token": true,
+        "voter_token": "b1ad189acd21419a0a52dc3f5548dc7e",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "0d6c9c41ab14cfc2d3cc6b4bd01357d3",
+        "voter_id": "43f8d7b497138380f271586134b3a5c9",
+        "valid_token": true,
+        "voter_token": "763674e1191f8b7525a936250a843b83",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "5e5adfbf7045973386959822dc4641ce",
+        "voter_id": "83bc5726506fd70883b1bc713adbcf8a",
+        "valid_token": true,
+        "voter_token": "8f5748235ab1f8fddb26215c283d95de",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "c3baf85767567b4285f08e7792500eeb",
+        "voter_id": "676b00df3d9d1b411125fe2b31ab1092",
+        "valid_token": true,
+        "voter_token": "36a1f30e44cfdd82b11af2b2a1cc28ea",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "dcd87be85063afe7149672cc4343e3f6",
+        "voter_id": "f775af92c6033d304026e390a4509b8b",
+        "valid_token": true,
+        "voter_token": "2a539aa1b7fb305d7f1242672217eeb3",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "27993141c63cc398ed338ca3d19dc331",
+        "voter_id": "aa9cc8d46b5afd2af3fa6fec76ce7c3b",
+        "valid_token": true,
+        "voter_token": "2a8bcaebc015dfcc869c7ecba92899ce",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "922249cc1d0d221b8a43951efdb80ccf",
+        "voter_id": "24ead7c19e1c1c8e057f01ce6441bd3d",
+        "valid_token": true,
+        "voter_token": "24e3c99b6a60020f9db6458c26a57bea",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "4ed567e19cebb1455b9e1c44b79e28db",
+        "voter_id": "a7279d6c438b14e6b7a52943b1718c1f",
+        "valid_token": true,
+        "voter_token": "799c62358bae21f522f74ccf42e891d6",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "38bd6423815bf9b0712775986c9d12d9",
+        "voter_id": "b9bf89e40892b883e2dd3c04cea3ab13",
+        "valid_token": true,
+        "voter_token": "c42646a49f2fedb71477ece3cc729e80",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "13a04ff9be53231d8de5a00ab13f9d76",
+        "voter_id": "dd48764891c7fa425705e38a326d3475",
+        "valid_token": true,
+        "voter_token": "6904f556be207b908b0ec093a6b843e3",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "dce50124cb80c65419436545da7b8b78",
+        "voter_id": "8bc38deafafc6d42ef9b8aef6e958b0f",
+        "valid_token": true,
+        "voter_token": "58abb7d56ab3bada0e4f51c554274e84",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "2105ab43731bc795b18099b6ea52e20d",
+        "voter_id": "b821f3ec2b576844680da7bebdeb8c91",
+        "valid_token": true,
+        "voter_token": "dc27cf89db720846406eb8e8b37c2bd0",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "9d90b4a0a902f1666f9525bcf50dd3ac",
+        "voter_id": "d2a100f723cb14a0bccbdaca1ef8dd0f",
+        "valid_token": true,
+        "voter_token": "ea3d5f518a825d79103f1bcc547fce1f",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "5453c924503e1ac8164c04360f2b5892",
+        "voter_id": "a04f25587e971b901d9c8998118e124d",
+        "valid_token": true,
+        "voter_token": "d3126ed8d601ddb22b6861b00885f55c",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "f5f55e7a8184ec869f4c65e124e52964",
+        "voter_id": "153376d27471d78b9211594cedff25ea",
+        "valid_token": true,
+        "voter_token": "f361a9e9dde2dea99d9b97b03a2e2f85",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "302b72d68fc3102b890b309342db7a56",
+        "voter_id": "330166476d6110b44c392ee2fa69569e",
+        "valid_token": true,
+        "voter_token": "4d100221e95784ed987da79b43dacdf7",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "837755ccbd6e0a2beb38b109b399fce2",
+        "voter_id": "8f2479f83ada91cdac401185d8e7fad5",
+        "valid_token": true,
+        "voter_token": "f99dec862c00e5e5df84975de35da8b4",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "9101034d38ecf86daa44779c5022688f",
+        "voter_id": "fe092730f7b9671eb6e6a089dde3024b",
+        "valid_token": true,
+        "voter_token": "39da47bd603dd2a05f1127b5726be7c6",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "3241d35d93c4068554e1fb16be3f17b9",
+        "voter_id": "ef2dcac7adc38e416583040bc7e9e74b",
+        "valid_token": true,
+        "voter_token": "f3ac63aae949ae918bbde84b72b68a80",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "7d3a721b0ea3671ccb24044b0925fd7f",
+        "voter_id": "d4b4ece1c6a88fbb11761f385f2c275f",
+        "valid_token": true,
+        "voter_token": "6576f318cd06653e2e841b59777cb3cd",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "ac8649381d34686f3a667d53a2f0c99c",
+        "voter_id": "43e632b168cd109da0a89cbe458716e7",
+        "valid_token": true,
+        "voter_token": "3c737c3180a337147ec32c1feb12f43d",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "5a2d2b9fc807241aa827742e7e5c7772",
+        "voter_id": "c33dee2f0736834c047e9b3e4d03af9d",
+        "valid_token": true,
+        "voter_token": "db5e67127ca69f64a6bf853827172289",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "3dca50c409fe9dcac3cbb27a5a965626",
+        "voter_id": "5269d964fdeb193178dc45d25b2495f7",
+        "valid_token": true,
+        "voter_token": "4f9810a50b444e3e89c14d159ec6fbc4",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "8ad2c30aac8256b3ec4752d194854f02",
+        "voter_id": "69c511414607ffb857de43f152df4bec",
+        "valid_token": true,
+        "voter_token": "cfff2ca2c94ceb1750e533c87e346b50",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b848704719027d546512d4dccc18bd9d",
+        "voter_id": "dbc40a201491e1a7a6edde6035f4fd6c",
+        "valid_token": true,
+        "voter_token": "e075829348e15fce5438814be029d67e",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b744bcf1eeb7a1a488aa62ff34016d1f",
+        "voter_id": "7fa0a225ce917fac0430e54b5357136c",
+        "valid_token": true,
+        "voter_token": "6c4c772661168213b0e75362700909f2",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "107261d97315a1e29cc528153b65ddd9",
+        "voter_id": "58045a0875d1f9a6b7430976d92156e5",
+        "valid_token": true,
+        "voter_token": "9341bc2b1abcff1e5e954aefe8044ae9",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "254457e84bf512d46061b79e384fcc44",
+        "voter_id": "7797b2e51717ce9ff8fb80cfe826b4d5",
+        "valid_token": true,
+        "voter_token": "b07916e5395e9af12aa59161a54bab5c",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "86abfd1ed50020c70e5c454070f154f7",
+        "voter_id": "84004c5b9b3b7e877e7e330ebc3f5447",
+        "valid_token": true,
+        "voter_token": "e822b548c3d80b30cb49fb3ff3c44658",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "d0e5647eb37cfee57b7053a91e2552c6",
+        "voter_id": "346c63b56869133ef5f5cfa52365a313",
+        "valid_token": true,
+        "voter_token": "847d73469ddeab8e10ed854f549ae01f",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "7cfb3195212b7a22a3cc272d395e8365",
+        "voter_id": "915eddb80df37d30971ad10273eeff2e",
+        "valid_token": true,
+        "voter_token": "bbc6340b60e7f88d7cc45684f0d4c636",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "cdc4e65778114ae4361ae7338d77ece8",
+        "voter_id": "598dd497c05f578cf7adfca8ffc3af51",
+        "valid_token": true,
+        "voter_token": "537a228dfe8565df3d6421d0ebbd923f",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "4157bd8fd77e53367b90a3f5cf434e91",
+        "voter_id": "cf7e240d4232ee0db64a2ff31840fd36",
+        "valid_token": true,
+        "voter_token": "3fcadc70fd6365c410385925e4624cd9",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "c5b7eddd3ac9dd36dc34336500c2f886",
+        "voter_id": "1cf63e775e37e4ee73cc5674c84cebd0",
+        "valid_token": true,
+        "voter_token": "3ee994b1a210240d0194d69f44ceaa17",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "faa703242857456bb994e70fab662de5",
+        "voter_id": "025bd5c218368f86544c0d9ea1637c66",
+        "valid_token": true,
+        "voter_token": "866d2732c684560f0a2945b4912dbb75",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "ff1bdd0ab9d74f3b90eea3583ef527c8",
+        "voter_id": "3b818c8647438f27b5cda01395fec22a",
+        "valid_token": true,
+        "voter_token": "6c39cbcc95df57d838e933b064c644ed",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "54a186d002bc7732cdb54184ebac3e80",
+        "voter_id": "1f4bc66adc46904353bc435700afefdf",
+        "valid_token": true,
+        "voter_token": "b75b1ab1fc608cfda6e0173b89a08d5b",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "344076084f138e5e877726227c501730",
+        "voter_id": "0ba8cef13d93a7c37306696c9519958a",
+        "valid_token": true,
+        "voter_token": "6683924b9713ac910f18b89d88691c52",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "d80c94baa882dcb9bf80ed59e9b4dcab",
+        "voter_id": "b6d4236d72aab69797b9ed7133fd2703",
+        "valid_token": true,
+        "voter_token": "1d98a4c14aca48c7d0e5c2225338df83",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "4145ba3d532c557010a948a7cf42433a",
+        "voter_id": "44fc8b7750d9b63e0ee4dfaf88d1187c",
+        "valid_token": true,
+        "voter_token": "7140476f2d0d69b1f3db4f561c857aef",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "d32fad7cfce7f7d9b0bf66eb1ac9778a",
+        "voter_id": "dded31505429bce7b882cf4006cebc2b",
+        "valid_token": true,
+        "voter_token": "5f49381c2b29019bd92ad046963accdc",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b42ecf418c5976ab3905f3da9daac1e3",
+        "voter_id": "1de72ec98db46f68370c70e73e8f3a02",
+        "valid_token": true,
+        "voter_token": "34c626af8bdc1c3e69d44f1f4eb47fd9",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "4571940b18d465a9f984d400dc028075",
+        "voter_id": "691a6c998a24ddf02bde41232dd069aa",
+        "valid_token": true,
+        "voter_token": "827954b1c8771460bad2c6b301a1fe63",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "a4ec29edc4c353f441620a8ab5c73568",
+        "voter_id": "401211c3c841ef50fe399ec1ce4af2ff",
+        "valid_token": true,
+        "voter_token": "53f2566cd53685fa005bff03a95c5ef1",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "58967257a63009c6376873981f28844c",
+        "voter_id": "cd4c7a7bf1e59d8ac822ef5551cdba56",
+        "valid_token": true,
+        "voter_token": "ba8a4c68d5598069659f2683de693436",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "85f353f803a7d4c9d28989ff0832598e",
+        "voter_id": "fe2b8567297dfc992ace34f56501fc32",
+        "valid_token": true,
+        "voter_token": "7f28a79b44461bba675bef59457621d4",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "4c5ffb030b90c5e26f18d2066f37a291",
+        "voter_id": "caa3bd182d090581512115703bc2230c",
+        "valid_token": true,
+        "voter_token": "51cfbd9e1b8fad31fb846d7d4b38f554",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "e40ac642a0ac62d77b8c1c88c5de2302",
+        "voter_id": "dd3339de2bb4bba84bc3b2b9f62b721d",
+        "valid_token": true,
+        "voter_token": "4ac43a369ff05f12b196f14154fc2df2",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "bc8effaef63d0fd003f0ed50cf60bd99",
+        "voter_id": "10220a1e47601e1027fe0369d0b1af10",
+        "valid_token": true,
+        "voter_token": "c1925d3f714bf9c530b5e0324d7e871c",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "97bbc326a8f1f258c6e20c1ba8565ace",
+        "voter_id": "9760d10c95cfea9c89a58c92f2748cc4",
+        "valid_token": true,
+        "voter_token": "41ffd5aa14f88ade3279ce055fb48ed0",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "2e4ec197df2a398f63e1fd3dfdcc8f06",
+        "voter_id": "47822fc295923147bc3753804d4bae1f",
+        "valid_token": true,
+        "voter_token": "ca61d5799e40927daea67526ab29e734",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "61e437d29dd4ef1185aede6fe8cddd39",
+        "voter_id": "7e06189fa1ae4c5935acf79c6cec230b",
+        "valid_token": true,
+        "voter_token": "e38996745caeeaea61ebdde06953f246",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "6cb5398616dc82a636c2dff6b21b1226",
+        "voter_id": "7626f01c9d839c59494bb8e1d0097b0b",
+        "valid_token": true,
+        "voter_token": "7d2e02e3bf3f72a47bbb169e6bf95f36",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "638e61a3f3a7feea8b970826fb9200fa",
+        "voter_id": "6950bbdbf62bc96db5303e99c287e187",
+        "valid_token": true,
+        "voter_token": "1f6eea8eb2c327f88e393943f845ce7f",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "82201aa2fe73877f4d0e667df7bf8483",
+        "voter_id": "230e0f715594d055bd249d695d01036d",
+        "valid_token": true,
+        "voter_token": "7750321a73fd8bcd053b3de5bee787e5",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "59ac1571c495675910d3eeaaded5d91f",
+        "voter_id": "6b528d550600af89c5264331997a24ff",
+        "valid_token": true,
+        "voter_token": "fafaabcf58ad2e38358c652ad01a14ff",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "bde0e9f986cb093037e1d4879837609e",
+        "voter_id": "212b54e291f4154a57433641137495f2",
+        "valid_token": true,
+        "voter_token": "f9520fd719030f4beef05db79d9b8775",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "61cc2d23df00fb55e9daae7172b8b3a3",
+        "voter_id": "80e59c24975e87ce6f10ed7a27423e26",
+        "valid_token": true,
+        "voter_token": "0ebefec8adba961aaacf7104a9299f34",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "1598c1b0452d5c8d154544aa06910a40",
+        "voter_id": "429e06e835803bece45ac65b8de881b3",
+        "valid_token": true,
+        "voter_token": "b40c070b2fb5f0a02c77e4b7940187f6",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "71de316036e0ee0288d3fe2eb34d7e97",
+        "voter_id": "ff0d233af53438462933b6291941c7e2",
+        "valid_token": true,
+        "voter_token": "b96ccbe35b8677ebd53b29874e6cd275",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "f8509161e132a777b91bdc277c533b2c",
+        "voter_id": "f3bb54f7b12d57eb7138b8f506762f3c",
+        "valid_token": true,
+        "voter_token": "7b986c672567393a336f30ad8f79424a",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "73fac77cacc3f9dfb4241799bc7dd754",
+        "voter_id": "cb288c12be28d4953875f9091939093e",
+        "valid_token": true,
+        "voter_token": "9d60732a624b790c1e2aedf96fa05216",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "2f1b4d076f3b04d854ba9f73cfdd6f25",
+        "voter_id": "1b298fd939f6befe71fcdd638eff6519",
+        "valid_token": true,
+        "voter_token": "2ba678db3ac30ee3c8a902cf067959fc",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "f5f36ee9222935759655bb9d0c390737",
+        "voter_id": "ff3672553da6bef69e99b5abde0b5eb9",
+        "valid_token": true,
+        "voter_token": "dab7ec1c66ed0c77d9ae448824ef7af7",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "d1fff76e5d3908a120950b691733ccb1",
+        "voter_id": "177198db01efb8c3e4070efeb687d0d3",
+        "valid_token": true,
+        "voter_token": "c90c81e2ac36f336c2717a373f7c24d6",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "8fc37c6d9290cc42d11c460948764104",
+        "voter_id": "92dc416881e308c9827266cb0199f24a",
+        "valid_token": true,
+        "voter_token": "f61cdd806196d80345ddbc8425f5bb2f",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "fdb78ca7c9d991ab363a541809a4a5bc",
+        "voter_id": "0ac76e5a9c33d1b5e091eb0b9283c88c",
+        "valid_token": true,
+        "voter_token": "40448c772edb3dab1752feb2c9bb14aa",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "78508289d19ba2a64092badc05892ccc",
+        "voter_id": "09504338ecc220890ba879f978104465",
+        "valid_token": true,
+        "voter_token": "a5475930c58967ca1495b7622f132d7d",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "ae2106445355bed0fbbda1aeb05f6635",
+        "voter_id": "86f18d51d4405c70d6f70e1d2c6c2eef",
+        "valid_token": true,
+        "voter_token": "dd8c9198f5f20937006218a1d3a5600d",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "a67104fbeeedd5b4f221e1cc16bfda59",
+        "voter_id": "b93b939c2dc83b0a612914549cdc5d51",
+        "valid_token": true,
+        "voter_token": "abd881420f1ee083fde438ada7211461",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "caf518b765420b5957b03463c41ec921",
+        "voter_id": "dfdd120e5f272b4f63fcf7d9aac48f73",
+        "valid_token": true,
+        "voter_token": "0246ef1b0ea7570afce24f659ddd11a4",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "e8a518ec8a83679b51d34f79dc16dde0",
+        "voter_id": "577bf07515fa3024e6547db2f5b89175",
+        "valid_token": true,
+        "voter_token": "bdb4519e460ca74ff28b26e92b0d817e",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "a41962adc765edee4a20e8ac9f057c24",
+        "voter_id": "c577d0aa393231880f1d59809ff78822",
+        "valid_token": true,
+        "voter_token": "95923f9fd8e6b334f08557798dc126ee",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "99eaf61412e7619c0d82b03a99d952a7",
+        "voter_id": "02b6a6d97275a9ff9ea1041b2f0bcbce",
+        "valid_token": true,
+        "voter_token": "6a1c940413418ddf91d6927aee989195",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "fef380518bfcdbb997529ec9d7667e10",
+        "voter_id": "0d99a332a46b5d612715d0e6c3cd3178",
+        "valid_token": true,
+        "voter_token": "f4e615dbcddc52c30fd34115204fa8c8",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "dc59d78278bf8f5dc7c1aea1e8f78abc",
+        "voter_id": "61992cd5584512216086496988268eaf",
+        "valid_token": true,
+        "voter_token": "a3d3f2a025cbba5ad6ce3bf011492565",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "15fe0deab2fceab25248a1966ad6a124",
+        "voter_id": "6082d4ec981a420b099c7efb78f9cbc0",
+        "valid_token": true,
+        "voter_token": "8c5ea2d69d048b734a655d0e81e2f536",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "53603acd802b820653dfdaa62726b2a4",
+        "voter_id": "53fcc5fc12936a84fd027d3e39cd9b76",
+        "valid_token": true,
+        "voter_token": "2fcd2cd76ab0b93d84d64205b2428bb1",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "dc72422121d09a145daf433fc2a15637",
+        "voter_id": "c399ffebd5a2cb879389a6bdfa184105",
+        "valid_token": true,
+        "voter_token": "c4d9305a8a7c2ecf804f6fb7e46afe23",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "be23901d2f7356530a66f623da1df9bf",
+        "voter_id": "889d8f5d1428977330af347f67537d29",
+        "valid_token": true,
+        "voter_token": "d193bac877bfb39a742e99c5c4781d9e",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "f348a0473e4b38d88921cb6c243a29a9",
+        "voter_id": "8c8a5f9b23954487777a31542a0fb853",
+        "valid_token": true,
+        "voter_token": "58bee49cdaea4b4a708b3a3b9fc2658b",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "57c6c1622ea7b634eaa98242519fb0ba",
+        "voter_id": "e08ba12fce1c2de7b0df1166f6bb9c62",
+        "valid_token": true,
+        "voter_token": "7fbfa301b28bd09ab7cb1ef430cd2bd9",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "66ee6dc72a228c3ee893cab598f4972e",
+        "voter_id": "1165adf6d563908d777e3cf62f0424be",
+        "valid_token": true,
+        "voter_token": "5684b4236855e1707ff2517ff34c45f1",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "e999859923e62eea0c366dd8c6cbed65",
+        "voter_id": "719a5525f53f60f023ac0d6e4cd2109c",
+        "valid_token": true,
+        "voter_token": "5da26db740bfe3b58730b059cc94447a",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "91da144d126f0a9832c50e65ff4caf4b",
+        "voter_id": "b2b275ce7ae1e8bd2f917a26750e7659",
+        "valid_token": true,
+        "voter_token": "0ce7fe98be61a26e9905e2e71835e06e",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "85febfb9ea171a11c13bb3ec304d03b4",
+        "voter_id": "8e3099b0f2c003b33e291a9b2ac1ee41",
+        "valid_token": true,
+        "voter_token": "72d95b92fb810189498d7491279d8435",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "4092197edc9c1551ec0a39753ec2c36c",
+        "voter_id": "b3b90ea302556a7e135a881d0acb2948",
+        "valid_token": true,
+        "voter_token": "487df0d9d596877422356f7de349cf71",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "41764a663e8285b7287a77c88ad6cd7e",
+        "voter_id": "e8237d6ecdfce5bb09e001096180aeb0",
+        "valid_token": true,
+        "voter_token": "e9075e0d3fe0f9f3e3dbafd2ff8ebb58",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "7d42342a65e523c346879737c7fe1031",
+        "voter_id": "3731632ad60ab8f6d64fc2ea7fca68a9",
+        "valid_token": true,
+        "voter_token": "49d4c1e368f14f527b2e22f834314b28",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "1ab8fdd3f995f2bebe06cfa25ffd054c",
+        "voter_id": "a46355d213474b1166ec4865079e46e7",
+        "valid_token": true,
+        "voter_token": "0c7a04916c6fd70ac1a5724f28307d37",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "e86becce4edecaa17b533d3ced637646",
+        "voter_id": "c57a5cedfecce0b13c0e33a34d033fd5",
+        "valid_token": true,
+        "voter_token": "9a8b400c02e7f4408f09ddb44355e4ef",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "f88c0ba50fb873a7787a447cdf2df3a3",
+        "voter_id": "e421c1516c446c4a0496215d54172f09",
+        "valid_token": true,
+        "voter_token": "9c5272d2d0cfbc5d7bea06583f99424f",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "4568bebc100ee6f95b6445cb7d085c00",
+        "voter_id": "c80d3eb928212885f1f29f2464adbd56",
+        "valid_token": true,
+        "voter_token": "c529cb45d601b33f9fa467c6cf963cd0",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "8b135367b4b8ce78f495cc485c667c0b",
+        "voter_id": "47b4e9e711c8c47a19267222e4767ec8",
+        "valid_token": true,
+        "voter_token": "128d89dcf711d9216c76abae8c91bc12",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "780110823cbf3bfdf46f1a2a15650e0d",
+        "voter_id": "c70257c9534ca80559be7f890085d33a",
+        "valid_token": true,
+        "voter_token": "6bedf012a9c20862849f4886bbc9bc4d",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "78a53e49aec74a79673f84d0bc44bc6b",
+        "voter_id": "54f37574742bb1cb5fe5269844dedd5c",
+        "valid_token": true,
+        "voter_token": "169ac03d34439a321c48f75df9a369f8",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "6f291d00eaabe755f3960115ce3730bd",
+        "voter_id": "92db973ccf242dcc23efc76c635e931b",
+        "valid_token": true,
+        "voter_token": "d3116ccb632731a3a16c02e2dfb0a8ea",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "e8fc485abd6391f4a6841b4a5e20e2a5",
+        "voter_id": "f9a8040e344bb69da39a06f020356c9a",
+        "valid_token": true,
+        "voter_token": "b0650f61c475348b1a0f5ec0092a18bd",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "81bf937a28adbe675639dcd0dd2abf62",
+        "voter_id": "142a9fb184829da661c28be450a78209",
+        "valid_token": true,
+        "voter_token": "2d68858d3515ed8bb4df96d1ae7c6d95",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "67522ed7d766ea6298094c35bd500f00",
+        "voter_id": "87ea9c88a9a3034a05bd73f628eaaac4",
+        "valid_token": true,
+        "voter_token": "1803958a860a192af04eff1f3bc49ba4",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "fa7a722028274b40d71ca68166feab82",
+        "voter_id": "ffe3e4b8e41618f46d3ab20aebba0571",
+        "valid_token": true,
+        "voter_token": "b6999b665c5b555139f66e3da90e2051",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "eb30b212ad420cee09d9d4fb86b05bf8",
+        "voter_id": "544404eff6ac6413a1a225585f7c24c5",
+        "valid_token": true,
+        "voter_token": "839ee352d6aa137879d7df3e20e1223f",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "ce14d6642442f0a7a23ac593abbc3f47",
+        "voter_id": "bd36f93da3f8608d4a16d72acd1c0a8d",
+        "valid_token": true,
+        "voter_token": "4996c796e848e3acf4a0ea682400444d",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "83b4a7aa8fc04b38b2bf717b4800e77c",
+        "voter_id": "f051b7fa75b9cfe20a674e07ebb321e3",
+        "valid_token": true,
+        "voter_token": "8545b8b17fcfcd8b6573e05f92aaeecf",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "3f37198cb085f7d373f41f94ed9c8d89",
+        "voter_id": "e9b7d6e6def6cf13bf407e845410e250",
+        "valid_token": true,
+        "voter_token": "b4b1e7c0d4e6d1d6fe0605dfa01596ad",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "5d156dd94b31467c4bcf17307ee08862",
+        "voter_id": "18dfb16ba3a410b545e7db4a694d98b3",
+        "valid_token": true,
+        "voter_token": "759a3fd9fd18cfea5ccea3455c2b1557",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "51f7bfbe4ac2aa0dba4b6805aec149f2",
+        "voter_id": "48c3f6e0afc2e48fccceca3634eb226f",
+        "valid_token": true,
+        "voter_token": "a02410e89834179cceb60dd1f4f26eda",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "a1f2c37b06c885288df5c3b085a88029",
+        "voter_id": "ec98409b023cf16117e1953dc0f31306",
+        "valid_token": true,
+        "voter_token": "3403b2a5aa2e6c80a528f20e8d4ec2f2",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "f19ca9e44439a678282fd2421fab747c",
+        "voter_id": "b136347ac958e78b233c294be592cbfb",
+        "valid_token": true,
+        "voter_token": "50336b20c805f5ffcaae8342460c0564",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "d237496005e7625c2e56c18b6902f59f",
+        "voter_id": "29f911c503a3f657dd82845dc2f37e93",
+        "valid_token": true,
+        "voter_token": "0225ae8265b5074c95c125f19ef4d1fd",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "5a56c439ae04434b269a07c4ebc87990",
+        "voter_id": "792c7d5961d314624bfffa71891e075c",
+        "valid_token": true,
+        "voter_token": "55b9407f46303e114048ee6ee214b055",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "946d524f6b992058f4f2f2e61761f880",
+        "voter_id": "bbbeb93725130f9b83adba2acca9e4c1",
+        "valid_token": true,
+        "voter_token": "1f46dd7f90855c3d51ea0f1b440e3e0a",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b09c8148ee6c1eadbcb4239d853e38aa",
+        "voter_id": "91b6010a3bd0278bbbd1a561a141fac9",
+        "valid_token": true,
+        "voter_token": "99095827a995b27ae227c5047d1aac3f",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "a73d372e6bdcc9a91273c356f43c4fa8",
+        "voter_id": "281543474f452b692eb87023e073223e",
+        "valid_token": true,
+        "voter_token": "c510b7bef586d94a90a9cb60e0b9e149",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "d3a0e4cffc9dbae8a95bfd0bacbfc75c",
+        "voter_id": "82544a3596a408d05ec3dbbe8f1610fc",
+        "valid_token": true,
+        "voter_token": "9b770a1a439b563845e5f89cade45543",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "c0ec3aab3e00665836ee5a5ae59ed7ed",
+        "voter_id": "f0a5a7878595b8b8559ec5addb6ab73b",
+        "valid_token": true,
+        "voter_token": "6a5d951eb99a1008bd35f0b0d8e1dd26",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "1332e078e294af5a04c7d135650b6527",
+        "voter_id": "f4e5be5ba83939ff57a0b34798093a3f",
+        "valid_token": true,
+        "voter_token": "583be838175aa6a6fbc84ad053e55105",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "3b9f52b3a7cc3d26aa0fd5f89c6373ef",
+        "voter_id": "6240d5cf011433a916cf43df5e4426dc",
+        "valid_token": true,
+        "voter_token": "c8408ac1169a114b8bb57d8de3fa0206",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "8045a5e0a5185513e4159fea1ce1599c",
+        "voter_id": "533df31470ed369050ab2524ccc18cd1",
+        "valid_token": true,
+        "voter_token": "d323ea468e33e6ce710818f068625441",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "4a8a31600e435fc151d142b291bd3dd0",
+        "voter_id": "b5f294c14160a733cf13b771b247de42",
+        "valid_token": true,
+        "voter_token": "99bd3777cab20a3c2e930587e431f709",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "fb8b451e7d94b57bd2821e442f1f2d14",
+        "voter_id": "1738723d890959dc3624277993992453",
+        "valid_token": true,
+        "voter_token": "b5c0f6b2c10f8e367c04cedc02d286be",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "d18fa3685fd1f597b7535b5f8f04577d",
+        "voter_id": "2eabf16a0fe1fb620813f91a5cf0e725",
+        "valid_token": true,
+        "voter_token": "4a4d2180cbbfac8844307ef8d3556ea7",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "4c93bfb6840fdadce5e892b4b056acff",
+        "voter_id": "c9528eb2ae4ec3eff3ffa805e107c3f2",
+        "valid_token": true,
+        "voter_token": "b2312f75df0063305533cef0ea076aac",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "6d29dc210e0818a969ea721095bd79fe",
+        "voter_id": "5dc49e681c52b91f5f8326189e895515",
+        "valid_token": true,
+        "voter_token": "78f532e546e68955187a2b71e3ae6611",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "94ef9502d707a11ffd939230ce89f8f7",
+        "voter_id": "b4e8fc8912cc95bcfb429a1cd033a930",
+        "valid_token": true,
+        "voter_token": "84db189ffb22e6128c553360f2a45b7f",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b96e850719dd1a5b46a81a0e206ad74d",
+        "voter_id": "76202168b680543b0e3f2ff5b163696a",
+        "valid_token": true,
+        "voter_token": "c51c73decc4379266fcd909ee6fd5396",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "8ddd55e74be2d360ea8a8fc211fb6a49",
+        "voter_id": "7a8f22ec3600528d7979121ce78b591a",
+        "valid_token": true,
+        "voter_token": "af136be5709dbc0c9195e02258f86de7",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "c504d2c67ac3fb33a6b31140049b089f",
+        "voter_id": "2002a9780e4a0e97a285766a9360718c",
+        "valid_token": true,
+        "voter_token": "294f5c28e5406c65ba0be47ce10eb0ee",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "16fafe2cd0af4dfe0f9aa61c991687b1",
+        "voter_id": "b038011aa1aff7bbc24b562e07114633",
+        "valid_token": true,
+        "voter_token": "20d2047c9cdde1bbbc800a90f5bfedd0",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "386d2c57b761892769c994c7b3091e28",
+        "voter_id": "36afa07309cfa056c3e83306a1a5b5f6",
+        "valid_token": true,
+        "voter_token": "a557b12e3b159ef8884ccdcc893512cb",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b6765d9a92c7499b660e4cade6837070",
+        "voter_id": "cfcc5c47cd4201a2ec7034827c04b669",
+        "valid_token": true,
+        "voter_token": "0a130ce0ed6504e6f957188d8d2f7e2a",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "0c4c51b31d8338a27a9656eee142a5ff",
+        "voter_id": "81e02d078ecdea7559d962188ea8adb8",
+        "valid_token": true,
+        "voter_token": "ef4651815243e5e2b9b78dfb939828d3",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "9bded6dcb9b739df53ec94ba29219570",
+        "voter_id": "fa8cc55fc0c23d53511ce7ef6ecc108d",
+        "valid_token": true,
+        "voter_token": "283d064b7d53e02ec9f48b60e47a47a1",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "55535924c909c7abc764554d93e43cb3",
+        "voter_id": "4acc9be024f4826ab5e50e23d3455a03",
+        "valid_token": true,
+        "voter_token": "98f40d4b6c7392138a04745feb982196",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "dc0ea0321610baa63b62061a75584624",
+        "voter_id": "f9ae987b2a3c83fe750e0bbce34e371e",
+        "valid_token": true,
+        "voter_token": "3b13ea7baa95e0ceb0d85f16333849d6",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b06d114903072b92b4f09a313792a176",
+        "voter_id": "6b4a31e6cafb58b10018d2ed3f6c46f2",
+        "valid_token": true,
+        "voter_token": "068db8f6c86b471cfca0cace7738e699",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "adacff4e437f10951313a9917240bd58",
+        "voter_id": "f1de37d31f10a9f9a780214629c14111",
+        "valid_token": true,
+        "voter_token": "b7e5f169e7d5625c9675939ed48d0035",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "062626c7e68193eadeb5effaaf9a1b42",
+        "voter_id": "a09f1bda026eae7b27ffab1d4361822f",
+        "valid_token": true,
+        "voter_token": "e3594cdd40eb025e0e973a0ab48b75c5",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "c12a2868544a4755c3609687826e711c",
+        "voter_id": "43fee1c410b50d6def3d67b944bbbe14",
+        "valid_token": true,
+        "voter_token": "c377436ae1d77a6d947f4b9641402da7",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "d3dacdd6508b5576d682847f79d3d1cd",
+        "voter_id": "736fbaaffb134aea6c5600633a6c4f77",
+        "valid_token": true,
+        "voter_token": "eec08dec732d6bb24e50a819cd52f44b",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "71f84da89cd976f9a30fa085618c38a0",
+        "voter_id": "e01214915371f041664e5e148b987955",
+        "valid_token": true,
+        "voter_token": "e988a633c0719d9f472db6640a7cd7b8",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "029494e9fe3f6171206da5f100968267",
+        "voter_id": "526c9aad573b21344f8045e6b6d39397",
+        "valid_token": true,
+        "voter_token": "e81b3f43b0f4a6a8cf4bde187c410db7",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "9ecee6ccabdeff37754491e81456356d",
+        "voter_id": "a2c5e52f2a4fe97371527bbcf546f98c",
+        "valid_token": true,
+        "voter_token": "2bc5845d7c7925c2bf5e29e0a22aaede",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "0685f9cc95aab51a5b5daa3c03a49376",
+        "voter_id": "d0a547ec02abbed1a19d558ba9ffc9a9",
+        "valid_token": true,
+        "voter_token": "8e49a6a121fa42d01b68b582d5cab832",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "42b3695c2507a9bd55390c1b07aa95a3",
+        "voter_id": "00d12c2f8bd803a2ef32263d1e454504",
+        "valid_token": true,
+        "voter_token": "847741448ed5d158c4921badb0c178f0",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "2b00e91749b42caae8a1d7d726727477",
+        "voter_id": "61ff8e007800b1f916ef710ef4399899",
+        "valid_token": true,
+        "voter_token": "995640617443d29b95ad52adb0e06861",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "fa3efc08dc97590545183cc562ee2335",
+        "voter_id": "b71fa5cdbe10be5b315b29745cf8f56d",
+        "valid_token": true,
+        "voter_token": "caacf129b089323c6483fe04fbb2ae07",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "3741906cfb37afd01d4d4f25b96cb688",
+        "voter_id": "b0d41a731380a4af9ba9d9ce648268d8",
+        "valid_token": true,
+        "voter_token": "8cc6926a19e6a3ce1a1b2afa2956c155",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "236cf5654e4c45faed9f9a0c79bdf28f",
+        "voter_id": "67e77f7f22558db65a4ce1874d6e5d6e",
+        "valid_token": true,
+        "voter_token": "86b02a529b58e2bf1ec078167e94725f",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "482f26657f9a938cd896bf9761bd533b",
+        "voter_id": "67876e71ecb73a3927e5f797e37dd7e8",
+        "valid_token": true,
+        "voter_token": "e13e5a74c2fdaf2b32679c59583d28fb",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b6993d78a7e5f8f408a6c2e0139dd1fa",
+        "voter_id": "61aab44a48a55b7e0624f26bd7cb3346",
+        "valid_token": true,
+        "voter_token": "2e57281934922801489c5527cd4cda73",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "387a7382df212809ba21bb2e72f5834e",
+        "voter_id": "bef925233135453563eaab3d57c65605",
+        "valid_token": true,
+        "voter_token": "ff800921bc16ec00ef72529e4bec225d",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "4e0525e3c2521c5d7e44274c998edb07",
+        "voter_id": "8609afda20d1330eb1ad7c1ee2c1c25e",
+        "valid_token": true,
+        "voter_token": "f3e15a079d39b34c9c165d2a5bd62fc5",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "dc7d93154fd64d54922ec6edc20fed8f",
+        "voter_id": "a8aa957f64611167ddabbc64d733f534",
+        "valid_token": true,
+        "voter_token": "b9c5e524be6dd3b5bceb35b6714c34fe",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "60305f6412eaf9f9c049785bb4083522",
+        "voter_id": "e9c4266b7ae9faaa18f4b4a6f5422e5d",
+        "valid_token": true,
+        "voter_token": "12667d5004680edc744bd274bcc40a62",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "dcb274a8d924dbab3ad8eb5902a256a1",
+        "voter_id": "1632b9545f9aafa944f0751f28d661f2",
+        "valid_token": true,
+        "voter_token": "63f6fed96edee09448030773402f1ea5",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "81ff5e3806db3708dfb410ee03d1894b",
+        "voter_id": "2433b97aa4dddc0509bbeb762c0d5f6b",
+        "valid_token": true,
+        "voter_token": "0671b5d6119bce74e9cf7c29a33a467f",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "c82b387024f7768da57b197d5b65d171",
+        "voter_id": "63b0352303804191c417ea45ca4fb34e",
+        "valid_token": true,
+        "voter_token": "860a2882a40a436c782f30d47794d072",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "4ee67ece80d97021ec6bf0080da69fa8",
+        "voter_id": "de5a4db616fced8b5b4e1c5d71513c32",
+        "valid_token": true,
+        "voter_token": "f6f8bd9b6c8150df52d6598e39ec186b",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "a1505c841e9a664ec3041a4cd686d28c",
+        "voter_id": "1af2200f48cf27e4efbcc876cd353f77",
+        "valid_token": true,
+        "voter_token": "2b24f94c1561f246cb4f2681726ccd8e",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "a91745e1cc67bcf64e509f46af706062",
+        "voter_id": "5553548112ce15736f46c9252a182704",
+        "valid_token": true,
+        "voter_token": "1b43b6d0fdf1837e35cedb66c9d1e458",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "86b265546bc1b96d2a981d7161459a44",
+        "voter_id": "d507265ee2f3779e8db3c1ea6309e727",
+        "valid_token": true,
+        "voter_token": "d1a321b70ab912840265d1a2038e4b77",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "94df205f1e75555516f10d24cfc0e22c",
+        "voter_id": "fe57fd6600bd5dc290303853e0930cd1",
+        "valid_token": true,
+        "voter_token": "96e8cb6ee679a31eacd3c6655cbeb07e",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "8023eddb7ce29630dea02fe3215a0058",
+        "voter_id": "9d5871bae458ef253765aa17de8e5fea",
+        "valid_token": true,
+        "voter_token": "3e918229114e08a86a9ed48a00067058",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "0286cbeccfac882224ffcb68f59e19cd",
+        "voter_id": "c69dc7853b43b35a1032ae6ecdd0b26e",
+        "valid_token": true,
+        "voter_token": "f999582cd9134762d0ceb040e3c572e6",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "9676900995aec36f9935aa2b93290cf0",
+        "voter_id": "199b787b00b44fc6f684e76c05b80aba",
+        "valid_token": true,
+        "voter_token": "1eb1a5aaa8685e2f624b1f8749089ff0",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "ed90367a08ab0bf51b4ef9686d0a2da2",
+        "voter_id": "5ce0b734c5854c5a2d78410ad4fbe840",
+        "valid_token": true,
+        "voter_token": "0223332baee5c64c2ed1ec410ffcb449",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "8e046bc2f20c313d6c1a43e1c363bde2",
+        "voter_id": "9fede29e6e11ee0c4999832210ce0621",
+        "valid_token": true,
+        "voter_token": "1f1db3301f16d561abcb671f94894a4a",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "a3a6abedeafa75bc668067e9122bd51b",
+        "voter_id": "ac649b75221adb9ba7ea0c1b2dd0244b",
+        "valid_token": true,
+        "voter_token": "767c70b6b318d20f9a2624229cc8b5cb",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "20f078ec72bcf4df8c8915a6d40922ea",
+        "voter_id": "4700a3d7a2787709b41c5b11a10a2768",
+        "valid_token": true,
+        "voter_token": "4a7ce959e9896d6370e3b30db007440e",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "2ccbb281eaed56c1e0eaafa024af0381",
+        "voter_id": "3dcbe4724ecbb5ab942d51b43bf47b2a",
+        "valid_token": true,
+        "voter_token": "68996ba6cd6e44977e47d2d449b07e56",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b7f3d34bfe00b379bbd88ba09f04a19a",
+        "voter_id": "d1b832cb00acf6ff174daad400165a4e",
+        "valid_token": true,
+        "voter_token": "c795b1812ec7a7eea630be0fa69c4cef",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "7c99c9513c59f12b5c6636f84c7eec16",
+        "voter_id": "8262be5a0e7047ca40a060287caaa843",
+        "valid_token": true,
+        "voter_token": "557da5c9841d2399e9596a4467f4f474",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "f3de473d65f53c47c86a47614cb60432",
+        "voter_id": "fbbfb186b5ebebcaa647a0c926b17e61",
+        "valid_token": true,
+        "voter_token": "94d9bafccdc545c3d749abbc79c7eab4",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "195bfb41ee787de07d9e0eb8f8dd4661",
+        "voter_id": "0f5c737f5bc6dc550544c66e4b25184c",
+        "valid_token": true,
+        "voter_token": "326a34e20ac9d9f994d96c2f62347081",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b4c3d5de1f409b2c6d3ddee666630820",
+        "voter_id": "5778324352f15723a4daed8358ef0e6d",
+        "valid_token": true,
+        "voter_token": "2e7070299cfd015a9cc9abf59177d28a",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "fe56f69b09c79f376771328c43a512fb",
+        "voter_id": "2e66af120d2fb089f960a596f6412fd3",
+        "valid_token": true,
+        "voter_token": "61669dc1cfe7b3124c9f12197eabebab",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "6e931c67e150b6fa71a87c8c8e051725",
+        "voter_id": "d53028822540c6cc7ab5a8a072638d13",
+        "valid_token": true,
+        "voter_token": "3c6d96b4f903d24ff8b8c2d9fdb6062f",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "0086644e2b0f122c0bbef2c932c4de39",
+        "voter_id": "381a97259169a8672fe6fbf027086f22",
+        "valid_token": true,
+        "voter_token": "0b8617e3666a057f6de3892a08d41c05",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "2db51a4aa8d78d19e2793aa74f976c7c",
+        "voter_id": "b1a832ec32978c559d98144abf7e3694",
+        "valid_token": true,
+        "voter_token": "769c32aac96ca7433705747807570491",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "f6030cac65f8b6a92556b09a88e55bfe",
+        "voter_id": "6a32000e9eef82c0e7c490d0184f7ed0",
+        "valid_token": true,
+        "voter_token": "1192fc79e7c5f577008a7f58486ff5b9",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "8a7239b054cd82b0fd0fdfc7c505121c",
+        "voter_id": "a5e8a4a48b2142fcaf0314a573d3216b",
+        "valid_token": true,
+        "voter_token": "4ca2f2062a0d5bfd25cd18588c831b30",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "8022c1e08cea05b9b62721b69eb0d5f7",
+        "voter_id": "594744ea3eda1463f3f476d9d02cda34",
+        "valid_token": true,
+        "voter_token": "d838dcbbe7c116c83c3ee1fc1a767995",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "bc59c168c2921086d166992b3a473a5f",
+        "voter_id": "50582f68b10b18f97b36297906dc5518",
+        "valid_token": true,
+        "voter_token": "80c32131e10e646f258de08b8f8a3fe0",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "0df7008d942641cab02f039d729e8d58",
+        "voter_id": "d84e9f2a2750fe44331ddbf82853f81f",
+        "valid_token": true,
+        "voter_token": "7b41916b091f3dda34f86b94f235bfeb",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "63980418d68cdf57778cd149f91dab61",
+        "voter_id": "689d98596b96a027260ce747c027efdf",
+        "valid_token": true,
+        "voter_token": "bfe810092d66b6069e20beb8f69af63e",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "1a38173f6ae96b5c710c592b2850e7e8",
+        "voter_id": "8a8a55257c6c3799d55e6fd3d54f8205",
+        "valid_token": true,
+        "voter_token": "6dd567514971a8a3e9f4bcf3128ad6a5",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "fe7f483120f1243fa470a2308a31d093",
+        "voter_id": "4ed5dea7c0dbcecdc11e516ed00343e1",
+        "valid_token": true,
+        "voter_token": "a90415da44ea3e7435fcbafec0e34d5b",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "0af57dec1ab34cee23a7c8bf172242ca",
+        "voter_id": "c608e661387a18c97f5692aef0c933f3",
+        "valid_token": true,
+        "voter_token": "6c0502d5f1b8c0f561e2f57c116adad6",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "0fd0f98ef2e872354643fe355c36ed7e",
+        "voter_id": "4542f0120441933a3a6b95dfb5d96f98",
+        "valid_token": true,
+        "voter_token": "e4ce6b5f0782f91c28d601324898e485",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "c9a247d0803b699fc2bdd97ab7dc7c7b",
+        "voter_id": "d8f02e480657f46dfdff08686fa38acd",
+        "valid_token": true,
+        "voter_token": "6272584ca78610cb3659b38a79036c31",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "8a0a35795b77b3d323607c290f56270f",
+        "voter_id": "89d7ee8adedd5c2f3a7e21f1ed368cf6",
+        "valid_token": true,
+        "voter_token": "c1759c736daddbaa019fbd4d6564e681",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "3f4b19a57b4839ad0cb17c8df8289d70",
+        "voter_id": "403e3c35a40b947c227acd0dbd732ead",
+        "valid_token": true,
+        "voter_token": "95bae1db9b748d442696050173882475",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "7d43d38c233f4d42aaac9d1b5f618ffc",
+        "voter_id": "7571db31e3805d1b486a1e2110ec22bf",
+        "valid_token": true,
+        "voter_token": "aba08c4f444cd2878ff8b131c014c063",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "fe7278cf870b9ffea92ae3418ae59486",
+        "voter_id": "c0cda30fd03b98a4164dcef752655c6e",
+        "valid_token": true,
+        "voter_token": "330121820afecd4f306e294be74fe6d5",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "9678e1df7fbfd92877070eec70dfeedc",
+        "voter_id": "5363e0cd0d09e1a97157a82d837cb4e5",
+        "valid_token": true,
+        "voter_token": "03f4c034ba84483277065e0a3e1531c3",
+        "voter_grade": 7,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "bc98b26affb8104be813e355a672880f",
+        "voter_id": "9eb77b1b73d22b1096ddcdb736526a94",
+        "valid_token": true,
+        "voter_token": "dfa20f5cc7eb96298bc406576a665267",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "2c8552d0f7d27b296b062d5ed75a0f63",
+        "voter_id": "1e885aca8307c34e65a36682ed7afc7a",
+        "valid_token": true,
+        "voter_token": "7abd7c934a122e96d953b88bc53dce7d",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "1bf3c0e5b9c70b059fdf6c0b9bba7ef6",
+        "voter_id": "f4c926a99162e984c39d04266ee6d02a",
+        "valid_token": true,
+        "voter_token": "b3afceb5923ab53e3eda48178b29d033",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "5ceb19a2151b6733d8ea7bd52ecfee87",
+        "voter_id": "3c81265742d85fd682925c91d384f14b",
+        "valid_token": true,
+        "voter_token": "61c2bee2774c03c3c103061eb09c80e6",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "6faf875687ec5061036c39a0fe43e938",
+        "voter_id": "0e41240589904f1871972eda6bfdaf59",
+        "valid_token": true,
+        "voter_token": "23c1435b6f5748a18d4bb41aa975843a",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "4773b71bb2e32500f28593ffd812af04",
+        "voter_id": "055738d2684bedda0ff960ee6c7016a9",
+        "valid_token": true,
+        "voter_token": "d57cf6314cf5ec529ef225c995ae692b",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "347758334836eb55f03a8ec5f4f2acd7",
+        "voter_id": "fefc09fa5fb4440439a9c5df33f3ee87",
+        "valid_token": true,
+        "voter_token": "2fc0a3e28173ee2069a9d9560fd663dc",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "f4f97659cd38ea09293d21984f817ed4",
+        "voter_id": "950961a9f8d83d4aab38e3c1c7437acd",
+        "valid_token": true,
+        "voter_token": "76fec4251509ccb6d7d2fc9bfd6d2477",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "ec0efeba2af66c66d1fb2c168bf4dd42",
+        "voter_id": "502253882ffae55ba88a0e0dd022c528",
+        "valid_token": true,
+        "voter_token": "bbad0059ad61091dedecf4da2ccc8ead",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "4e9c34bb2c6c9bb22ca2affd5e7ab406",
+        "voter_id": "8c396dbd4b94da91c95885b226f95d4c",
+        "valid_token": true,
+        "voter_token": "7e4fc49011e7c6a175656b2137f7c83d",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "47c5b4e16519b920311ad48150aea4b6",
+        "voter_id": "f25357fbce4efa125ad9d7a5aa1ad9e4",
+        "valid_token": true,
+        "voter_token": "866537685ebd38da30bee751f365f39d",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "aeda8495d4f43f066eea335ef4928a0d",
+        "voter_id": "3b6d1c13cf2fd6faee406e18dcb43b17",
+        "valid_token": true,
+        "voter_token": "6664f550bc3941b445089db72da66856",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "9c9870f5f110ca0533a76ea2ee2acb6c",
+        "voter_id": "286af2258209e803e52bffea65b17689",
+        "valid_token": true,
+        "voter_token": "772d4ca06ec97bd3465525879b336fd3",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "06802bdcd29cd4dd2c259f2d737a26f1",
+        "voter_id": "0341dc077e4662ab372f9cd98e1d6538",
+        "valid_token": true,
+        "voter_token": "4bb82e9c9c2d75a0dab7faac3163a529",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "1ba4c39cb816045eb821a8a724d0508e",
+        "voter_id": "16df33238f45da4285b4dce9ff22a215",
+        "valid_token": true,
+        "voter_token": "3b7d3a6620fbf6bc570b34ffe0280410",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "5a3a44161bb2e49100b4171a7d303d32",
+        "voter_id": "75e131bf1a6901d40fe84f5bc1235082",
+        "valid_token": true,
+        "voter_token": "8a7c62ae7a9984788a818d8701a05796",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "069f836b3f2d192efb01dba55f6e1c7a",
+        "voter_id": "5c8e7a0f59bb9adbbd5b2d523e4ff489",
+        "valid_token": true,
+        "voter_token": "2d061e90ea7e19067a3c91c0847b0e0a",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "593e62e6b16814a80e4b051f9575bd44",
+        "voter_id": "fe44244065c8c6727de720ba340bb1fc",
+        "valid_token": true,
+        "voter_token": "1896c9906ee29e1f33fd3014981f5d23",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "cef52222bd7faefb13c8d9505e753d61",
+        "voter_id": "d2919aafad2c469139073bbce0b58c1a",
+        "valid_token": true,
+        "voter_token": "79f8de168ac7fdf04c244f61a9864938",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "f333c9b1ecf56cefaf6a6772939e5506",
+        "voter_id": "2e33d2757a07287151d67027c65b64cb",
+        "valid_token": true,
+        "voter_token": "55f65349eb40867a2cca4b2617af84b0",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "e5b4562d028eaf5d47bd9373bb414886",
+        "voter_id": "eb2bdfe943ba5795fec1bce114b7f5da",
+        "valid_token": true,
+        "voter_token": "77e2ddc6c61ce0a5e241cc8fcc526522",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "40b3aa8efbba45834a6a53c8d796e880",
+        "voter_id": "40ba7b03855e45c3a3bc524d59ba8838",
+        "valid_token": true,
+        "voter_token": "b033e68956ddc5a6d6c8b2cf7091d3d0",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "b012e87ffe0f3673cea1186a5d18a6ac",
+        "voter_id": "54e23f8c1a5f9d4cc40f84510932a709",
+        "valid_token": true,
+        "voter_token": "ad3f8d68e4146a726ea684bf36957feb",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "52843a3493d4e9a519bb718bb4bb9135",
+        "voter_id": "f16841a1e2466aa8a5a1d046d96a6f05",
+        "valid_token": true,
+        "voter_token": "8b5fc4f2c4a2494ab1a410d793e3ab82",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "e13099b77672c95fff20fb9f4beaec22",
+        "voter_id": "a58b33f3168ec3ff5c2f5b57d7b7dded",
+        "valid_token": true,
+        "voter_token": "2c0ef90106b384c13ffb4b9fff80ccdb",
+        "voter_grade": 11,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "5df40e078c67fa391897aa098e220e7a",
+        "voter_id": "6509917f28727f1589a9afe4f385e938",
+        "valid_token": true,
+        "voter_token": "966a2dc8a64522d7f0a932685bc9de66",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "21675ecb9741ddac302d5cd3cf22d072",
+        "voter_id": "c48893597c7ac85a7a2cd39ea02092be",
+        "valid_token": true,
+        "voter_token": "ccbba96ef4e31fc77f10f6f07d7d3a05",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "bf1ec3411e0b72c6c103f9148ab7457e",
+        "voter_id": "64af458dfd6c498bcb7543a9ac862c82",
+        "valid_token": true,
+        "voter_token": "cd0f2a03ec5e99a0d09fd1028a3242c4",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "104df6eb50047f6f76e6ac3acf6957c8",
+        "voter_id": "4083d7e5117768724bdd902cccab3a0d",
+        "valid_token": true,
+        "voter_token": "9a8147f33458deef57cd927f9b55305e",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "9f0a8f694a9e00067c359bdede5a5c5b",
+        "voter_id": "4f11345d02780933217967bf9153f339",
+        "valid_token": true,
+        "voter_token": "0c372503d7ed8e0461bc384843cf419d",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "75f762fbe7c0525889b9e3a08a044169",
+        "voter_id": "634565ed4aa39a6ddbae6e4f202f589f",
+        "valid_token": true,
+        "voter_token": "ad34bcc76d434651e73a7e40aaccbb5c",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "27858d9fbf6986405c40fbe4cded3cbb",
+        "voter_id": "9fca7322fca60b9d2fcc3f9ccdd281c7",
+        "valid_token": true,
+        "voter_token": "428864c34df49ae53c2672adbd4160e2",
+        "voter_grade": 8,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "77dfa0581105e66d163ecfc14dfad807",
+        "voter_id": "ed09cca29046831b901877a25d0532ad",
+        "valid_token": true,
+        "voter_token": "7247c645e7ae7f3d5c601d15984fd35a",
+        "voter_grade": 9,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "ba71f211fa898f5fb022a1d382fc0b92",
+        "voter_id": "fb99f3e02bb6112f593e08228d416b36",
+        "valid_token": true,
+        "voter_token": "d07397716cd79902e984c16a7eade9a2",
+        "voter_grade": 10,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "0d430d7dffae9afb91f5df212072f777",
+        "voter_id": "ceef9a482a5b5e56da787152fa002359",
+        "valid_token": true,
+        "voter_token": "430e54e65ad886cec4441d6168d899cd",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "63c96bed8118d8075dc8c52ba1af15ae",
+        "voter_id": "9332440428e01f1e210e41d21f14ca19",
+        "valid_token": true,
+        "voter_token": "8237494943bfdd4cce2d3d390dc0cbbe",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "508c72989bc04a5d9b2c80987d52e035",
+        "voter_id": "c8c2d536756ab38f6ec4c60d2ad93da1",
+        "valid_token": true,
+        "voter_token": "8858596f1a098757a7b47b6a7c78017a",
+        "voter_grade": 6,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "2c84a30c45483db5fc3d3d99c0134112",
+        "voter_id": "5d155009c72aa427e193592d2df42ae6",
+        "valid_token": true,
+        "voter_token": "aadef0d728da46ec2c0ba624a4a87eaf",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "e9ea3a22e1ef9e5377da1ea58507d1d8",
+        "voter_id": "6ed31503e615d14d140aa714927c682a",
+        "valid_token": true,
+        "voter_token": "22f41ab5f2f41d91ba88c760d88a0ce5",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "108be9d9dbeed44645c026df09e3a48b",
+        "voter_id": "823915387511212a383fa9a31558188f",
+        "valid_token": true,
+        "voter_token": "16602c7183903f901ee0efcc25119727",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "2546ea0be28274684ad92fdaa098b563",
+        "voter_id": "ba6600c0e76fcedc1d661753afabc581",
+        "valid_token": true,
+        "voter_token": "7454773221754fe6ab4187f76196c9fe",
+        "voter_grade": 12,
+        "casted_votes": []
+    },
+    {
+        "voter_email": "ee54d6dc6a93388c896874645064b2df",
+        "voter_id": "4f1203c105c73824a028e079aad3e4bc",
+        "valid_token": true,
+        "voter_token": "b0480f78bac8a87173e2f6ef2b82ddd6",
+        "voter_grade": 12,
+        "casted_votes": []
+    }
+]

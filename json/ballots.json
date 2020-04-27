@@ -1,0 +1,155 @@
+{
+    "10": [
+        {
+            "candidate_name": "0f7f5",
+            "candidate_id": "101901c2",
+            "voters": []
+        },
+        {
+            "candidate_name": "fca25",
+            "candidate_id": "1024dceb",
+            "voters": []
+        },
+        {
+            "candidate_name": "09567",
+            "candidate_id": "10beb570",
+            "voters": []
+        },
+        {
+            "candidate_name": "a2ec6",
+            "candidate_id": "10a205c4",
+            "voters": []
+        },
+        {
+            "candidate_name": "27bc6",
+            "candidate_id": "10821c01",
+            "voters": []
+        }
+    ],
+    "11": [
+        {
+            "candidate_name": "d457c",
+            "candidate_id": "11881dc5",
+            "voters": []
+        },
+        {
+            "candidate_name": "91213",
+            "candidate_id": "11ffc698",
+            "voters": []
+        },
+        {
+            "candidate_name": "afc1a",
+            "candidate_id": "11814b7c",
+            "voters": []
+        },
+        {
+            "candidate_name": "93a1b",
+            "candidate_id": "1111b169",
+            "voters": []
+        },
+        {
+            "candidate_name": "e893a",
+            "candidate_id": "11b99a08",
+            "voters": []
+        }
+    ],
+    "12": [
+        {
+            "candidate_name": "f38ff",
+            "candidate_id": "123ccfd4",
+            "voters": [
+                "1e7418c79e3c4ab2c8c6c626ba2179de",
+                "fddfd69647279f94a8efb837c07fca16",
+                "5080e794a2ac6a4b668f20fc3a6be017",
+                "bf293ee0809c39b48a1f40413dd74bbb"
+            ]
+        },
+        {
+            "candidate_name": "0dd91",
+            "candidate_id": "127ff92d",
+            "voters": [
+                "1e7418c79e3c4ab2c8c6c626ba2179de",
+                "fddfd69647279f94a8efb837c07fca16",
+                "5080e794a2ac6a4b668f20fc3a6be017",
+                "bf293ee0809c39b48a1f40413dd74bbb"
+            ]
+        },
+        {
+            "candidate_name": "365b7",
+            "candidate_id": "12dc4fe2",
+            "voters": []
+        }
+    ],
+    "09": [
+        {
+            "candidate_name": "b7f14",
+            "candidate_id": "092ba931",
+            "voters": []
+        },
+        {
+            "candidate_name": "ae961",
+            "candidate_id": "09f77802",
+            "voters": []
+        }
+    ],
+    "08": [
+        {
+            "candidate_name": "4672e",
+            "candidate_id": "0884279b",
+            "voters": []
+        },
+        {
+            "candidate_name": "c07f7",
+            "candidate_id": "0852db58",
+            "voters": []
+        },
+        {
+            "candidate_name": "3d2ab",
+            "candidate_id": "08e8bfae",
+            "voters": []
+        },
+        {
+            "candidate_name": "87880",
+            "candidate_id": "08c2b290",
+            "voters": []
+        }
+    ],
+    "07": [
+        {
+            "candidate_name": "3b279",
+            "candidate_id": "073ad04a",
+            "voters": [
+                "5dcc6577a84970786f88b2c6771b1219"
+            ]
+        },
+        {
+            "candidate_name": "aa5b9",
+            "candidate_id": "07b5feab",
+            "voters": [
+                "5dcc6577a84970786f88b2c6771b1219"
+            ]
+        },
+        {
+            "candidate_name": "63688",
+            "candidate_id": "078e6740",
+            "voters": []
+        },
+        {
+            "candidate_name": "d1bce",
+            "candidate_id": "0739e50d",
+            "voters": []
+        }
+    ],
+    "06": [
+        {
+            "candidate_name": "30a0c",
+            "candidate_id": "06012fb7",
+            "voters": []
+        },
+        {
+            "candidate_name": "894cb",
+            "candidate_id": "06e0429c",
+            "voters": []
+        }
+    ]
+}

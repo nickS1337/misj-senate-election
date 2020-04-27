@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>options_backup</title>
+    <link rel="stylesheet" href="ballot/assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+    <link rel="stylesheet" href="ballot/assets/css/Article-List.css">
+    <link rel="stylesheet" href="ballot/assets/css/Footer-Dark.css">
+    <link rel="stylesheet" href="ballot/assets/css/Highlight-Blue.css">
+    <link rel="stylesheet" href="ballot/assets/css/Highlight-Phone.css">
+    <link rel="stylesheet" href="ballot/assets/css/Login-Form-Clean.css">
+    <link rel="stylesheet" href="ballot/assets/css/Navigation-Clean.css">
+    <link rel="stylesheet" href="ballot/assets/css/Projects-Clean.css">
+    <link rel="stylesheet" href="ballot/assets/css/Projects-Horizontal.css">
+    <link rel="stylesheet" href="ballot/assets/css/styles.css">
+    <link rel="stylesheet" href="ballot/assets/css/Team-Grid.css">
+    <link rel="stylesheet" href="ballot/assets/css/untitled-1.css">
+    <link rel="stylesheet" href="ballot/assets/css/untitled-2.css">
+    <link rel="stylesheet" href="ballot/assets/css/untitled.css">
+    
+    <script src="ballot/assets/js/jquery.min.js"></script>
+    <script src="ballot/assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    
+    <script>
+    
+        var socket = io();
+        var votes = [];
+        var recvCandidates = 0;
+
+        socket.on("voter_email", (data)=>{ document.getElementById("B_email").innerHTML = data; });
+        socket.on("voter_token", (data)=>{ document.getElementById("B_token").innerHTML = data; });
+        socket.on("voter_id", (data)=>{ document.getElementById("B_voterid").innerHTML = data; });
+        socket.on("voter_grade", (data)=>{ document.getElementById("B_grade").innerHTML = data; document.getElementById("grade_title").innerHTML = "Grade " + data + " Ballot Box"; });
+
+        socket.emit("request_candidates");
+
+        socket.on("refresh_main", ()=>{
+            window.location = "/";
+            console.log("Received refresh signal. Going to /.");
+        });
+
+        socket.on("candidate_name", (candidate_name, candidate_number, candidate_id, num_candidates)=>{
+            
+            recvCandidates++;
+
+            if (recvCandidates > num_candidates){
+                return;
+            }
+
+            $("#candidates").prepend('<div class="col-sm-6 col-lg-4 item voting_tile" title="Click here to vote" style="height:300px;min-height:381px;" id="'+candidate_id+'"><img class="img-fluid" src="ballot/assets/img/desk.jpg"><h3 class="name" style="font-family:Roboto, sans-serif;margin-top:15px;">'+candidate_name+'</h3><p class="description" style="font-family:Roboto, sans-serif;font-size:23px;margin-top:-9px;">Candidate '+candidate_number+'.</p></div>')
+            console.log("Received candidate name: " + candidate_name);
+
+            document.getElementById(candidate_id).addEventListener("click", function(){
+
+                if (!votes.includes(candidate_id) && votes.length !== 2){
+                    
+                    console.log("Candidate clicked:", candidate_id);
+                    votes.push(candidate_id);
+                    $("#" + candidate_id).css({
+                        "backgroundColor": "#95e291"
+                    });
+
+                } else if (votes.includes(candidate_id)){
+
+                    (votes[0] == candidate_id) ? votes.splice(0, 1) : votes.splice(1, 1);
+                    
+                    console.log("Removed candiate from vote:" + candidate_id);
+                    document.getElementById(candidate_id).style.backgroundColor = "";
+
+                } else {
+
+                    document.getElementById("error_box").style.color = "#ce3a00";
+                    document.getElementById("error_box").style.fontWeight = "bold";
+                    document.getElementById("error_box").innerHTML = "You cannot select more than two candidates to vote for.";
+                    
+                }
+
+                document.getElementById("vote_count").style.fontWeight = "bold";
+                document.getElementById("vote_count").innerHTML = "Casting " + votes.length + " of your 2 votes";
+
+            })
+
+        });
+
+        socket.on("voting_response", (msg)=>{
+            document.getElementById("voting_response").innerHTML = msg;
+        });
+
+        socket.on("voting_success", ()=>{
+            document.getElementById("vote_count").style.color = "#91ff38";
+
+            var days = 1;
+            var expires = "";
+
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime() + (days*24*60*60*1000));
+                expires = "; expires=" + date.toUTCString();
+            }
+            
+            document.cookie = "_voted=" + date.getTime()  + expires + "; path=/";
+
+            window.location.reload();
+            
+        });
+
+
+        function vote(){
+
+            console.log("Casting the vote");
+            socket.emit("vote", votes);
+
+        };
+
+    </script>
+</head>
+
+<style>
+
+.voting_tile:hover {
+    cursor: pointer;
+    background-color: #f7f7f7;
+}
+
+.voting_tile:active {
+    background-color: #c0ff9b;
+}
+
+</style>
+
+<body>
+    <nav class="navbar navbar-light navbar-expand-md" style="margin:0px;padding:12px;">
+        <div class="container-fluid"><a class="navbar-brand" href="#" style="color:rgba(0,0,0,0.9);font-family:Roboto, sans-serif;"><img class="img-fluid" src="ballot/assets/img/2000px-KPU_Logo.svg.png" style="background-image:url(&quot;ballot/assets/img/2000px-KPU_Logo.svg.png&quot;);width:72px;margin-right:22px;"><strong>Mentari Election Commission</strong></a>
+            <button
+                class="navbar-toggler" data-toggle="collapse" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navcol-1">
+                    <ul class="nav navbar-nav ml-auto" style="padding:0px;margin:-3px;">
+                        <li class="nav-item" role="presentation"><a class="nav-link active" href="#">Digital Ballot Box</a></li>
+                        <li class="nav-item" role="presentation"><a class="nav-link" href="#"></a></li>
+                        <li class="nav-item" role="presentation"><a class="nav-link" href="#" style="margin:0px;">2019 Senate Results</a></li>
+                    </ul>
+                </div>
+        </div>
+    </nav>
+    <ol class="breadcrumb" style="margin:0;">
+        <li class="breadcrumb-item"><a><span>session2019</span></a></li>
+        <li class="breadcrumb-item" id="B_email"><a><span>loading</span></a></li>
+        <li class="breadcrumb-item" id="B_token"><a><span>loading</span></a></li>
+        <li class="breadcrumb-item" id="B_voterid"><a><span>loading</span></a></li>
+        <li class="breadcrumb-item" id="B_grade"><a><span>grade</span></a></li>
+    </ol>
+    <div class="highlight-phone" style="margin:0;padding-top:60px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="intro">
+                        <h2 style="font-family:Roboto, sans-serif;">2019 Election Mechanics</h2>
+                        <p style="margin-bottom:6px;">With the new election system underway, we thought it would be beneficial to understand how the new system works before you vote:</p>
+                        <div class="row">
+                            <div class="col">
+                                <p style="margin-left:0px;color:rgb(0,0,0);font-family:Roboto, sans-serif;margin-bottom:1px;"><strong>1. Two (2) votes per person: </strong>you may vote twice in this election, but must vote for two different candidates. You may vote for only one (1) candidate if you wish. If there is only 1 candidate in your grade
+                                    ballot, you may only vote for that candidate once.</p>
+                                <div class="row">
+                                    <div class="col">
+                                        <p style="color:rgb(0,0,0);font-family:Roboto, sans-serif;margin-bottom:1px;"><strong>2. One (1) token per person: </strong>you may only use your voting token that was sent to your email once. After you have used it, you cannot use it again. You cannot obtain another token after you have
+                                            voted.</p>
+                                        <p style="color:rgb(0,0,0);font-family:Roboto, sans-serif;margin-bottom:1px;"><strong>3. Click to vote: </strong>to vote for a candidate, click on their picture.</p>
+                                        <p style="color:rgb(0,0,0);font-family:Roboto, sans-serif;margin-bottom:17px;"><strong>4. 2019-2020 Caucus:</strong>&nbsp;the people you elect here will be part of the Mentari Senate for the duration of 2019-2020.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div><a class="btn btn-primary" role="button" href="#">read the election mechanics in detail</a></div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="d-none d-md-block iphone-mockup"><img src="ballot/assets/img/iphone.svg" class="device">
+                        <div class="screen" style="background-image:url(&quot;ballot/assets/img/Overflow_Tiny.png&quot;);"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="article-list"></div>
+    <div class="projects-clean">
+        <div class="container">
+            <div class="intro">
+                <h2 class="text-center" style="font-family:Roboto, sans-serif;color:rgb(0,0,0);padding-bottom:0px;padding-top:53px;margin-right:0px;" id="grade_title">Grade X Ballot Box</h2>
+                <p class="text-center" style="font-size:24px;color:rgb(34,35,36);margin-top:-36px;" id="error_box">Here are your options for this year's election. Pick two only by clicking on their pictures:</p>
+            </div>
+            <div class="row projects" id="candidates">
+                <!--div class="col-sm-6 col-lg-4 item voting_tile" title="Click here to vote" style="height:300px;min-height:381px;"><img class="img-fluid" src="ballot/assets/img/desk.jpg">
+                    <h3 class="name" style="font-family:Roboto, sans-serif;margin-top:15px;">Candidate Name</h3>
+                    <p class="description" style="font-family:Roboto, sans-serif;font-size:23px;margin-top:-9px;">Candidate X</p>
+                </div>-->
+                <div class="col-sm-6 col-lg-4 item" style="height:300px;min-height:381px;">
+                    <div style="background-color:#fff8d2;height:auto;width:328px;border:0.2em solid #ffe35b;padding-right:18px;padding-left:18px;padding-bottom:20px;min-width:328px;padding-top:9px;border-style:dashed;">
+                        <h4 class="text-left" style="padding-top:13px;padding-left:0px;font-family:Roboto, sans-serif;" id="vote_count"><strong>Casting 0 of your 2 votes</strong></h4>
+                        <p class="lead text-left" style="font-family:Roboto, sans-serif;" id="voting_response">You can not undo your vote after it is cast. By casting your vote, you understand that your vote has been locked and can not be changed. Your token will expire immediately after voting.</p><button onclick="vote()" class="btn btn-primary" type="button"
+                            style="font-family:Roboto, sans-serif;">Vote</button></div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <div class="footer-dark" style="font-family:Roboto, sans-serif;">
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-6 col-md-3 item">
+                        <h3>Mentari Election Commission</h3>
+                        <ul>
+                            <li><a href="#">Powered by The Overflow Club</a></li>
+                            <li><a href="#">Moderated by the Neutral Commission</a></li>
+                            <li></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6 col-md-3 item">
+                        <ul>
+                            <li><a href="#"></a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 item text">
+                        <div class="d-inline-block float-right" style="height:64px;background-image:url(&quot;ballot/assets/img/2000px-KPU_Logo.svg.png&quot;);background-size:cover;width:54px;margin-right:9px;"></div>
+                        <div class="d-inline-block float-right" style="height:64px;background-image:url(&quot;ballot/assets/img/Overflow_Tiny.png&quot;);background-size:cover;width:54px;margin-right:9px;"></div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>
